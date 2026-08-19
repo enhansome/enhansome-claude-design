@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T16:02:06Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 170379
+            "stars": 170407
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T16:02:06Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 170379
+            "stars": 170407
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-14T20:50:15Z",
             "owner": "anthropics",
             "repo": "claude-cookbooks",
-            "stars": 51837
+            "stars": 51841
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-14T20:50:15Z",
             "owner": "anthropics",
             "repo": "claude-cookbooks",
-            "stars": 51837
+            "stars": 51841
           }
         }
       ],
@@ -83,7 +83,7 @@
                 "last_commit": "2026-07-31T12:32:42Z",
                 "owner": "VoltAgent",
                 "repo": "awesome-design-md",
-                "stars": 109224
+                "stars": 109240
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2026-07-27T21:15:07Z",
                 "owner": "google-labs-code",
                 "repo": "design.md",
-                "stars": 27353
+                "stars": 27354
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-06-20T17:54:18Z",
                 "owner": "VoltAgent",
                 "repo": "awesome-claude-design",
-                "stars": 3451
+                "stars": 3452
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-10T21:45:44Z",
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 72777
+                "stars": 72788
               }
             },
             {
@@ -155,10 +155,10 @@
                 "archived": false,
                 "id": 969302809,
                 "language": "Python",
-                "last_commit": "2026-08-19T06:10:00Z",
+                "last_commit": "2026-08-19T12:08:31Z",
                 "owner": "hesreallyhim",
                 "repo": "awesome-claude-code",
-                "stars": 52596
+                "stars": 52610
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-19T06:52:05Z",
                 "owner": "sickn33",
                 "repo": "agentic-awesome-skills",
-                "stars": 45117
+                "stars": 45128
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-04-28T19:30:24Z",
                 "owner": "travisvn",
                 "repo": "awesome-claude-skills",
-                "stars": 14714
+                "stars": 14717
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2026-04-05T20:39:24Z",
                 "owner": "heilcheng",
                 "repo": "awesome-agent-skills",
-                "stars": 6111
+                "stars": 6113
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-05-25T18:28:25Z",
                 "owner": "bergside",
                 "repo": "design-md-chrome",
-                "stars": 2673
+                "stars": 2674
               }
             },
             {
@@ -351,7 +351,7 @@
                 "last_commit": "2026-08-18T18:16:41Z",
                 "owner": "nextlevelbuilder",
                 "repo": "ui-ux-pro-max-skill",
-                "stars": 118059
+                "stars": 118108
               }
             },
             {
@@ -366,7 +366,7 @@
                 "last_commit": "2026-08-18T12:20:59Z",
                 "owner": "VoltAgent",
                 "repo": "awesome-agent-skills",
-                "stars": 30531
+                "stars": 30544
               }
             },
             {
@@ -381,7 +381,7 @@
                 "last_commit": "2026-08-17T02:43:44Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 24640
+                "stars": 24654
               }
             },
             {
@@ -411,7 +411,7 @@
                 "last_commit": "2026-08-08T16:02:37Z",
                 "owner": "Owl-Listener",
                 "repo": "designer-skills",
-                "stars": 2114
+                "stars": 2116
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2026-08-18T16:02:06Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 170379
+                "stars": 170407
               }
             },
             {
@@ -544,7 +544,7 @@
                 "last_commit": "2026-08-14T20:50:15Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 51837
+                "stars": 51841
               }
             }
           ],
@@ -566,7 +566,7 @@
                 "last_commit": "2026-08-17T22:57:24Z",
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 77958
+                "stars": 78022
               }
             },
             {
@@ -581,7 +581,7 @@
                 "last_commit": "2026-08-10T21:45:44Z",
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 72777
+                "stars": 72788
               }
             },
             {
@@ -596,7 +596,7 @@
                 "last_commit": "2026-06-20T11:32:45Z",
                 "owner": "Dammyjay93",
                 "repo": "interface-design",
-                "stars": 5477
+                "stars": 5480
               }
             },
             {
@@ -611,7 +611,7 @@
                 "last_commit": "2026-03-01T13:36:16Z",
                 "owner": "coleam00",
                 "repo": "excalidraw-diagram-skill",
-                "stars": 4471
+                "stars": 4472
               }
             },
             {
@@ -641,7 +641,7 @@
                 "last_commit": "2026-08-08T16:02:37Z",
                 "owner": "Owl-Listener",
                 "repo": "designer-skills",
-                "stars": 2114
+                "stars": 2116
               }
             }
           ],
@@ -667,7 +667,7 @@
             "last_commit": "2026-08-18T12:20:59Z",
             "owner": "VoltAgent",
             "repo": "awesome-agent-skills",
-            "stars": 30531
+            "stars": 30544
           }
         },
         {
@@ -789,7 +789,7 @@
                 "last_commit": "2026-08-17T22:57:24Z",
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 77958
+                "stars": 78022
               }
             },
             {
@@ -804,7 +804,7 @@
                 "last_commit": "2026-08-10T21:45:44Z",
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 72777
+                "stars": 72788
               }
             },
             {
@@ -819,7 +819,7 @@
                 "last_commit": "2026-06-20T11:32:45Z",
                 "owner": "Dammyjay93",
                 "repo": "interface-design",
-                "stars": 5477
+                "stars": 5480
               }
             },
             {
@@ -834,7 +834,7 @@
                 "last_commit": "2026-03-01T13:36:16Z",
                 "owner": "coleam00",
                 "repo": "excalidraw-diagram-skill",
-                "stars": 4471
+                "stars": 4472
               }
             },
             {
@@ -864,7 +864,7 @@
                 "last_commit": "2026-08-08T16:02:37Z",
                 "owner": "Owl-Listener",
                 "repo": "designer-skills",
-                "stars": 2114
+                "stars": 2116
               }
             }
           ],
@@ -877,8 +877,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:06:59.508Z",
+    "last_updated": "2026-08-19T12:20:02.324Z",
     "original_repository": "rohitg00/awesome-claude-design",
+    "original_repository_id": 1214951658,
     "original_repository_sha": "7f60ee56b9340f8c2671a08c2d8aab4037546a64",
     "enhanced_repository": "enhansome/enhansome-claude-design",
     "enhanced_repository_description": null,

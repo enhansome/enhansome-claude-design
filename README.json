@@ -1,42 +1,7 @@
 {
   "items": [
     {
-      "description": "What each aesthetic family actually looks like in production. Thumbnails are static screenshots of the public homepage of one representative brand per family. Click the image to open the live site, click the caption to open the working in this repo.\nScreenshots are public-homepage stills used for editorial reference. Trademarks remain with their respective owners. See ATTRIBUTION.md for source URLs and refresh policy.",
-      "items": [],
-      "title": "Preview Gallery"
-    },
-    {
-      "description": "Click thumbnail. View counts refresh live via shields.io.",
-      "items": [],
-      "title": "Video Teardowns"
-    },
-    {
-      "description": "Launch-week consensus: Claude Design wins design-system coherence, web capture, collaboration. Lovable wins full-stack shipping. Figma Make is safest for Figma teams. Stitch is strongest for pure token generation. SuperDesign is the only open-source option that lives inside the IDE.",
-      "items": [],
-      "title": "Comparisons"
-    },
-    {
-      "description": "Real builds shipped with Claude Design — launch-week seed of 10 cards (Tom's Guide pizza brand in 30 min, Peter Yang's 16-min everything build, Mercury's 90% inference, Brilliant 20→2 prompts, Datadog week→1-conversation, and more).\nSee . Submit your own via the Showcase Submission issue template or PR.",
-      "items": [],
-      "title": "Showcase"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Community Takes"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Feature Map"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Launch Timeline"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -45,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1061953414,
             "language": "Python",
-            "last_commit": "2026-08-17T17:23:18Z",
+            "last_commit": "2026-08-18T16:02:06Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 170147
+            "stars": 170379
           }
         },
         {
@@ -59,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1061953414,
             "language": "Python",
-            "last_commit": "2026-08-17T17:23:18Z",
+            "last_commit": "2026-08-18T16:02:06Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 170147
+            "stars": 170379
           }
         },
         {
@@ -73,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 678973052,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-14T20:50:15Z",
             "owner": "anthropics",
             "repo": "claude-cookbooks",
-            "stars": 51770
+            "stars": 51837
           }
         },
         {
@@ -87,444 +55,605 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 678973052,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-14T20:50:15Z",
             "owner": "anthropics",
             "repo": "claude-cookbooks",
-            "stars": 51770
+            "stars": 51837
           }
         }
       ],
       "title": "Official Resources"
     },
     {
-      "description": "Launch-week reactions with receipts.\nSubmit more: handle, verbatim quote ≤280 chars, tweet URL, engagement numbers.",
-      "items": [],
-      "title": "X Signal"
-    },
-    {
       "description": "Not sorted by industry. Sorted by visual character — because that's how designers actually pick. Each family links to (1) a working in , (2) canonical external references, (3) a one-line swatch + type spec so you can eyeball fit before cloning.\nShipped samples in this repo: warm/claude.md · warm/mercury.md · terminal/ollama.md · terminal/warp.md · terminal/opencode.md · editorial/linear.md · editorial/vercel.md · data-dense/clickhouse.md · data-dense/posthog.md · data-dense/datadog.md · data-dense/mongodb.md · cinematic/runway.md · cinematic/tavus.md · cinematic/cohere.md · cinematic/nvidia.md · cinematic/minimax.md · cinematic/bmw.md · cinematic/ferrari.md · cinematic/lamborghini.md · cinematic/renault.md · playful/figma.md · playful/canva.md · playful/toss.md · glass/arc.md · glass/apple.md · brutalist/the-verge.md · indie/granola.md · remix/linear-x-claude.md · remix/warp-x-sentry.md · remix/stripe-x-a24.md · remix/vercel-x-pitchfork.md · remix/granola-x-criterion.md · remix/ollama-x-elevenlabs.md · remix/notion-x-duolingo.md · remix/mercury-x-linear.md",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VoltAgent/awesome-design-md",
+              "description": "59+ brands in Stitch-format, every entry ships preview.html (tool-agnostic twin)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1197515131,
+                "language": null,
+                "last_commit": "2026-07-31T12:32:42Z",
+                "owner": "VoltAgent",
+                "repo": "awesome-design-md",
+                "stars": 109224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "google-labs-code/design.md",
+              "description": "official DESIGN.md spec from Google Labs Code, Apache 2.0; see",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1207222725,
+                "language": "TypeScript",
+                "last_commit": "2026-07-27T21:15:07Z",
+                "owner": "google-labs-code",
+                "repo": "design.md",
+                "stars": 27353
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VoltAgent/awesome-claude-design",
+              "description": "68 brand DESIGN.md files, industry-sorted (the canonical industry catalog)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1214125715,
+                "language": null,
+                "last_commit": "2026-06-20T17:54:18Z",
+                "owner": "VoltAgent",
+                "repo": "awesome-claude-design",
+                "stars": 3451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "philquist/awesome-claude-design-examples",
+              "description": "community mirror/fork of the VoltAgent collection, useful as a discovery surface",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1215744464,
+                "language": null,
+                "last_commit": "2026-04-18T12:41:05Z",
+                "owner": "philquist",
+                "repo": "awesome-claude-design-examples",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ComposioHQ/awesome-claude-skills",
+              "description": "claude.ai + Code + API portability emphasis; ships canvas-design SKILL.md",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1078079172,
+                "language": "Python",
+                "last_commit": "2026-08-10T21:45:44Z",
+                "owner": "ComposioHQ",
+                "repo": "awesome-claude-skills",
+                "stars": 72777
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hesreallyhim/awesome-claude-code",
+              "description": "the original awesome-claude-code list; hosts Patrick Ellis's Design Review Workflow entry",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 969302809,
+                "language": "Python",
+                "last_commit": "2026-08-19T06:10:00Z",
+                "owner": "hesreallyhim",
+                "repo": "awesome-claude-code",
+                "stars": 52596
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sickn33/antigravity-awesome-skills",
+              "description": "1,431+ skills incl. Leonxlnx/taste-skill (Stitch design systems, brutalist/minimalist modes)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1134426800,
+                "language": "Python",
+                "last_commit": "2026-08-19T06:52:05Z",
+                "owner": "sickn33",
+                "repo": "agentic-awesome-skills",
+                "stars": 45117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "travisvn/awesome-claude-skills",
+              "description": "curated skills with subagent guidance and authoring conventions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1077850011,
+                "language": null,
+                "last_commit": "2026-04-28T19:30:24Z",
+                "owner": "travisvn",
+                "repo": "awesome-claude-skills",
+                "stars": 14714
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BehiSecc/awesome-claude-skills",
+              "description": "security-flavoured skill list with design-engineering crossover",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1078332194,
+                "language": null,
+                "last_commit": "2026-08-02T11:06:52Z",
+                "owner": "BehiSecc",
+                "repo": "awesome-claude-skills",
+                "stars": 10013
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "heilcheng/awesome-agent-skills",
+              "description": "multi-agent (Claude/Cursor/Codex/Gemini) skills with explicit awesome-design-md cross-link",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1124920990,
+                "language": "TypeScript",
+                "last_commit": "2026-04-05T20:39:24Z",
+                "owner": "heilcheng",
+                "repo": "awesome-agent-skills",
+                "stars": 6111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rohitg00/awesome-claude-code-toolkit",
+              "description": "sibling meta-toolkit: 135 agents, 35 skills, 42 commands, 176 plugins",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1150071903,
+                "language": "JavaScript",
+                "last_commit": "2026-05-12T07:18:34Z",
+                "owner": "rohitg00",
+                "repo": "awesome-claude-code-toolkit",
+                "stars": 2528
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "quemsah/awesome-claude-plugins",
+              "description": "design-engineering plugins with craft / memory / enforcement framing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1086692156,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T15:16:56Z",
+                "owner": "quemsah",
+                "repo": "awesome-claude-plugins",
+                "stars": 1196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jqueryscript/awesome-claude-code",
+              "description": "surfaces claude-design-engineer (1.1k stars) and excalidraw-diagram-skill (1.2k stars)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1019011969,
+                "language": null,
+                "last_commit": "2026-08-08T16:40:00Z",
+                "owner": "jqueryscript",
+                "repo": "awesome-claude-code",
+                "stars": 501
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bergside/design-md-chrome",
+              "description": "Chrome / Firefox / Edge extension that extracts DESIGN.md + SKILL.md from any site in TypeUI format (Chrome Web Store listing); designer-friendly path with no terminal required",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1210537388,
+                "language": "JavaScript",
+                "last_commit": "2026-05-25T18:28:25Z",
+                "owner": "bergside",
+                "repo": "design-md-chrome",
+                "stars": 2673
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bitjaru/styleseed",
+              "description": "69 design rules + 48 shadcn components + Toss/Stripe/Linear/Vercel/Notion brand skins; teaches LLMs how designers think rather than just what brands look like",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1203405919,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T02:05:33Z",
+                "owner": "bitjaru",
+                "repo": "styleseed",
+                "stars": 903
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yuvrajangadsingh/brandmd",
+              "description": "produces DESIGN.md / CSS custom properties / Tailwind v4 / dark-mode overrides; no LLM calls; ships as an Agent Skill across 30+ platforms",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1191491499,
+                "language": "JavaScript",
+                "last_commit": "2026-08-03T06:00:29Z",
+                "owner": "yuvrajangadsingh",
+                "repo": "brandmd",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Muluk-m/design-distill",
+              "description": "Stitch-compatible DESIGN.md generator with pre-bundled github / linear / notion / stripe / vercel snapshots; works with Codex, Claude Code, and any AI client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1201208996,
+                "language": "JavaScript",
+                "last_commit": "2026-06-14T15:48:11Z",
+                "owner": "Muluk-m",
+                "repo": "design-distill",
+                "stars": 9
+              }
+            }
+          ],
+          "description": "The DESIGN.md ecosystem is bigger than this repo. We catalog only what others don't — these are the upstreams, mirrors, sibling lists, and origin-spec sources worth bookmarking.\nDESIGN.md ecosystem\nTopic hubs\nAwesome-Claude meta-lists\nTooling & extractors\nBackground reading",
+          "node_type": "group",
+          "title": "External catalogs"
+        }
+      ],
       "title": "DESIGN.md by Aesthetic Family"
     },
     {
-      "description": "Calm neutrals, serif or narrow-grotesque headlines, generous line-height, single accent. Built for reading, pricing pages, docs.",
-      "items": [],
-      "title": "1. Editorial Minimalism"
-    },
-    {
-      "description": "Monospace everywhere, phosphor-green or amber on near-black, hard edges, CLI metaphors.",
-      "items": [],
-      "title": "2. Terminal-Core"
-    },
-    {
-      "description": "Terracotta, cream, clay. Serif body, approachable, human. Claude's own brand sits here.",
-      "items": [],
-      "title": "3. Warm Editorial"
-    },
-    {
-      "description": "Charts are the hero. Tight spacing, saturated categorical palette, fixed-width numerals, dark-first dashboards.",
-      "items": [],
-      "title": "4. Data-Dense Pro"
-    },
-    {
-      "description": "Film-grade gradients, oversized type, motion-forward, media-heavy hero. Built for AI products and creator tools.",
-      "items": [],
-      "title": "5. Cinematic Dark"
-    },
-    {
-      "description": "High-saturation, illustrated accents, rounded corners, decorative shapes. Consumer-friendly.",
-      "items": [],
-      "title": "6. Playful Color"
-    },
-    {
-      "description": "Frosted blur, layered translucency, soft gradients, Apple-adjacent. Premium consumer feel.",
-      "items": [],
-      "title": "7. Glass / Soft-Futurism"
-    },
-    {
-      "description": "Hard edges, deliberate-ugly type mixing, oversized numerals, saturated single hue. Statement pieces.",
-      "items": [],
-      "title": "8. Neon Brutalist"
-    },
-    {
-      "description": "Brands VoltAgent's catalog does NOT cover — indie SaaS, cult tools, magazines, museums, game studios. Maintainer bias: these are the ones worth cloning.",
-      "items": [],
-      "title": "9. Cult / Indie Picks (non-Fortune-500)"
-    },
-    {
-      "description": "The DESIGN.md ecosystem is bigger than this repo. We catalog only what others don't — these are the upstreams, mirrors, sibling lists, and origin-spec sources worth bookmarking.\nDESIGN.md ecosystem",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "VoltAgent/awesome-design-md",
-          "description": "59+ brands in Stitch-format, every entry ships preview.html (tool-agnostic twin)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-31T12:32:42Z",
-            "owner": "VoltAgent",
-            "repo": "awesome-design-md",
-            "stars": 109013
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "google-labs-code/design.md",
-          "description": "official DESIGN.md spec from Google Labs Code, Apache 2.0; see",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-27T21:15:07Z",
-            "owner": "google-labs-code",
-            "repo": "design.md",
-            "stars": 27318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VoltAgent/awesome-claude-design",
-          "description": "68 brand DESIGN.md files, industry-sorted (the canonical industry catalog)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-20T17:54:18Z",
-            "owner": "VoltAgent",
-            "repo": "awesome-claude-design",
-            "stars": 3445
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "philquist/awesome-claude-design-examples",
-          "description": "community mirror/fork of the VoltAgent collection, useful as a discovery surface",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-18T12:41:05Z",
-            "owner": "philquist",
-            "repo": "awesome-claude-design-examples",
-            "stars": 2
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+              "description": "professional UI/UX across platforms",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1106996539,
+                "language": "Python",
+                "last_commit": "2026-08-18T18:16:41Z",
+                "owner": "nextlevelbuilder",
+                "repo": "ui-ux-pro-max-skill",
+                "stars": 118059
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VoltAgent/awesome-agent-skills",
+              "description": "1000+ skills incl. , , ,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1084853233,
+                "language": null,
+                "last_commit": "2026-08-18T12:20:59Z",
+                "owner": "VoltAgent",
+                "repo": "awesome-agent-skills",
+                "stars": 30531
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alirezarezvani/claude-skills",
+              "description": "skills across engineering, marketing, product, compliance",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1079084637,
+                "language": "Python",
+                "last_commit": "2026-08-17T02:43:44Z",
+                "owner": "alirezarezvani",
+                "repo": "claude-skills",
+                "stars": 24640
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "superdesigndev/superdesign",
+              "description": "open-source design agent in the IDE by @jasonzhou1993 and @jackjack_eth. Parallel Claude Code agents, infinite canvas UX. Show HN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1005359642,
+                "language": "TypeScript",
+                "last_commit": "2026-06-29T04:55:32Z",
+                "owner": "superdesigndev",
+                "repo": "superdesign",
+                "stars": 6863
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Owl-Listener/designer-skills",
+              "description": "Designer Skills Collection by MC Dean. MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1175316550,
+                "language": "Markdown",
+                "last_commit": "2026-08-08T16:02:37Z",
+                "owner": "Owl-Listener",
+                "repo": "designer-skills",
+                "stars": 2114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "daymade/claude-code-skills",
+              "description": "production-ready Claude Code skills marketplace",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1081140442,
+                "language": "Python",
+                "last_commit": "2026-08-19T03:43:39Z",
+                "owner": "daymade",
+                "repo": "claude-code-skills",
+                "stars": 1344
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abhishekray07/claude-md-templates",
+              "description": "CLAUDE.md + rule template",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1149942938,
+                "language": null,
+                "last_commit": "2026-05-18T16:18:25Z",
+                "owner": "abhishekray07",
+                "repo": "claude-md-templates",
+                "stars": 315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Owl-Listener/designpowers",
+              "description": "specialist design agents, Direct + Auto modes. MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185613751,
+                "language": "Shell",
+                "last_commit": "2026-06-23T12:41:40Z",
+                "owner": "Owl-Listener",
+                "repo": "designpowers",
+                "stars": 237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jonthebeef/superdesign-mcp-claude-code",
+              "description": "MCP server wiring SuperDesign into Claude Code, no API key",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1016034523,
+                "language": "HTML",
+                "last_commit": "2026-03-10T20:51:45Z",
+                "owner": "jonthebeef",
+                "repo": "superdesign-mcp-claude-code",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "saifyxpro/ui-ux-design-pro-skill",
+              "description": "styles, palettes, fonts, reasoning rules, platform templates",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1157758884,
+                "language": "TypeScript",
+                "last_commit": "2026-02-19T02:02:05Z",
+                "owner": "saifyxpro",
+                "repo": "ui-ux-design-pro-skill",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "smartwhale8/claude-playbook",
+              "description": "production scaffolding, GitHub template",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158696742,
+                "language": "Shell",
+                "last_commit": "2026-02-15T19:27:26Z",
+                "owner": "smartwhale8",
+                "repo": "claude-playbook",
+                "stars": 37
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community gists & prompt repos"
         }
       ],
-      "title": "External catalogs"
-    },
-    {
-      "description": "Single-brand clones get generic fast. Mix tokens across families for novel looks.\nShip your remix: + screenshot. PR it.",
-      "items": [],
-      "title": "Remix Recipes"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Prompts & Cookbooks"
     },
     {
-      "description": "",
+      "description": "Drop this fragment into Claude Design's system prompt or any Claude Code project. Sourced from Anthropic's frontend aesthetics cookbook:\nMalewicz's teardown opens by flagging Claude Design's own logo as \"generic, color palette\" — exactly the trap this prompt is built to avoid.",
       "items": [
         {
-          "node_type": "item",
-          "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-          "description": "professional UI/UX across platforms",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T17:10:11Z",
-            "owner": "nextlevelbuilder",
-            "repo": "ui-ux-pro-max-skill",
-            "stars": 117764
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PR #210",
+              "description": "clarity revision of the frontend-design skill; 75% win rate across model tiers, biggest lift on Haiku",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1061953414,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:02:06Z",
+                "owner": "anthropics",
+                "repo": "skills",
+                "stars": 170379
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frontend-aesthetics cookbook",
+              "description": "Anthropic's own anti-slop primer; the source quoted above",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 678973052,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-14T20:50:15Z",
+                "owner": "anthropics",
+                "repo": "claude-cookbooks",
+                "stars": 51837
+              }
+            }
+          ],
+          "description": "Claude Design routes through Anthropic's open-source skill — the same skill Claude Code auto-loads for UI work. The skill's defaults bias toward \"production-quality first pass\" which, in the absence of a DESIGN.md, lands on the same look every time.\nTwo related Anthropic resources worth bookmarking:\nAnthropic acknowledges the problem in the cookbook: \"You tend to converge toward generic, 'on distribution' outputs. In frontend design, this creates what users call the 'AI slop' aesthetic. Avoid this: make creative, distinctive frontends that surprise and delight.\"",
+          "node_type": "group",
+          "title": "How the defaults got there"
         },
         {
-          "node_type": "item",
-          "title": "VoltAgent/awesome-agent-skills",
-          "description": "1000+ skills incl. , , ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-16T11:52:26Z",
-            "owner": "VoltAgent",
-            "repo": "awesome-agent-skills",
-            "stars": 30472
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "alirezarezvani/claude-skills",
-          "description": "skills across engineering, marketing, product, compliance",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T02:43:44Z",
-            "owner": "alirezarezvani",
-            "repo": "claude-skills",
-            "stars": 24598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "superdesigndev/superdesign",
-          "description": "open-source design agent in the IDE by @jasonzhou1993 and @jackjack_eth. Parallel Claude Code agents, infinite canvas UX. Show HN",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-29T04:55:32Z",
-            "owner": "superdesigndev",
-            "repo": "superdesign",
-            "stars": 6856
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Owl-Listener/designer-skills",
-          "description": "Designer Skills Collection by MC Dean. MIT",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Markdown",
-            "last_commit": "2026-08-08T16:02:37Z",
-            "owner": "Owl-Listener",
-            "repo": "designer-skills",
-            "stars": 2099
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "daymade/claude-code-skills",
-          "description": "production-ready Claude Code skills marketplace",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T05:45:47Z",
-            "owner": "daymade",
-            "repo": "claude-code-skills",
-            "stars": 1340
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "abhishekray07/claude-md-templates",
-          "description": "CLAUDE.md + rule template",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-18T16:18:25Z",
-            "owner": "abhishekray07",
-            "repo": "claude-md-templates",
-            "stars": 314
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Owl-Listener/designpowers",
-          "description": "specialist design agents, Direct + Auto modes. MIT",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-06-23T12:41:40Z",
-            "owner": "Owl-Listener",
-            "repo": "designpowers",
-            "stars": 236
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jonthebeef/superdesign-mcp-claude-code",
-          "description": "MCP server wiring SuperDesign into Claude Code, no API key",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-03-10T20:51:45Z",
-            "owner": "jonthebeef",
-            "repo": "superdesign-mcp-claude-code",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "saifyxpro/ui-ux-design-pro-skill",
-          "description": "styles, palettes, fonts, reasoning rules, platform templates",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-19T02:02:05Z",
-            "owner": "saifyxpro",
-            "repo": "ui-ux-design-pro-skill",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "smartwhale8/claude-playbook",
-          "description": "production scaffolding, GitHub template",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-02-15T19:27:26Z",
-            "owner": "smartwhale8",
-            "repo": "claude-playbook",
-            "stars": 37
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Leonxlnx/taste-skill",
+              "description": "frontend taste skill: premium UI generation, redesign audits, GSAP motion, brutalist/minimalist/soft variants, 3-dial parameterization (variance, motion, density)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1162099055,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T22:57:24Z",
+                "owner": "Leonxlnx",
+                "repo": "taste-skill",
+                "stars": 77958
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ComposioHQ/awesome-claude-skills — canvas-design",
+              "description": "design philosophy expressed visually: two-phase (philosophy → artifact), 90% visual / 10% essential text, anti-template by construction",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1078079172,
+                "language": "Python",
+                "last_commit": "2026-08-10T21:45:44Z",
+                "owner": "ComposioHQ",
+                "repo": "awesome-claude-skills",
+                "stars": 72777
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dammyjay93/interface-design",
+              "description": "design engineering for Claude Code (formerly ): persistent design system file, slash commands for init/audit/extract, enforces token consistency between sessions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1127982345,
+                "language": "Shell",
+                "last_commit": "2026-06-20T11:32:45Z",
+                "owner": "Dammyjay93",
+                "repo": "interface-design",
+                "stars": 5477
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "coleam00/excalidraw-diagram-skill",
+              "description": "diagram skill that argues visually instead of slapping boxes-and-arrows; Playwright render-validate loop catches overlap, misalignment, bad spacing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1169920711,
+                "language": "Python",
+                "last_commit": "2026-03-01T13:36:16Z",
+                "owner": "coleam00",
+                "repo": "excalidraw-diagram-skill",
+                "stars": 4471
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OneRedOak/claude-code-workflows — design-review",
+              "description": "Patrick Ellis's UI/UX review workflow: subagents + slash command + CLAUDE.md memory integration + accessibility coverage via Playwright MCP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1036412176,
+                "language": null,
+                "last_commit": "2025-09-14T07:33:32Z",
+                "owner": "OneRedOak",
+                "repo": "claude-code-workflows",
+                "stars": 3885
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Marie Claire Dean — 63 design skills",
+              "description": "(repo ) — 63 skills + 27 commands across research, systems, strategy, UI, interaction, prototyping, ops; teaches Claude what design actually is beyond image generation. MIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1175316550,
+                "language": "Markdown",
+                "last_commit": "2026-08-08T16:02:37Z",
+                "owner": "Owl-Listener",
+                "repo": "designer-skills",
+                "stars": 2114
+              }
+            }
+          ],
+          "description": "Beyond Anthropic's own materials, the community has shipped a growing set of skills, plugins, and review workflows specifically aimed at the slop fingerprints catalogued above. Drop-in alternatives or complements to the prompt fragment.",
+          "node_type": "group",
+          "title": "Community anti-slop tools"
         }
       ],
-      "title": "Community gists & prompt repos"
-    },
-    {
-      "description": "Every pack includes the full prompt, an example run with expected output, quality checks, and variations.\nIndex:",
-      "items": [],
-      "title": "Prompt packs shipped here ()"
-    },
-    {
-      "description": "Drop this fragment into Claude Design's system prompt or any Claude Code project. Sourced from Anthropic's frontend aesthetics cookbook:\nMalewicz's teardown opens by flagging Claude Design's own logo as \"generic, color palette\" — exactly the trap this prompt is built to avoid.",
-      "items": [],
       "title": "Anti-Slop Kit"
     },
     {
-      "description": "The single biggest community complaint: every Claude Design output looks the same. Catalogued from launch-week Reddit threads, the Sam Henri Gold blog post, the Banani review, and The Neuron Daily round-up.\nUse the dedicated prompt pack to neutralize these in one paste.",
-      "items": [],
-      "title": "Claude Design's default fingerprints (avoid)"
-    },
-    {
-      "description": "Claude Design routes through Anthropic's open-source skill — the same skill Claude Code auto-loads for UI work. The skill's defaults bias toward \"production-quality first pass\" which, in the absence of a DESIGN.md, lands on the same look every time.\nTwo related Anthropic resources worth bookmarking:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PR #210",
-          "description": "clarity revision of the frontend-design skill; 75% win rate across model tiers, biggest lift on Haiku",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T17:23:18Z",
-            "owner": "anthropics",
-            "repo": "skills",
-            "stars": 170147
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "frontend-aesthetics cookbook",
-          "description": "Anthropic's own anti-slop primer; the source quoted above",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T20:50:15Z",
-            "owner": "anthropics",
-            "repo": "claude-cookbooks",
-            "stars": 51770
-          }
-        }
-      ],
-      "title": "How the defaults got there"
-    },
-    {
-      "description": "Beyond Anthropic's own materials, the community has shipped a growing set of skills, plugins, and review workflows specifically aimed at the slop fingerprints catalogued above. Drop-in alternatives or complements to the prompt fragment.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Leonxlnx/taste-skill",
-          "description": "frontend taste skill: premium UI generation, redesign audits, GSAP motion, brutalist/minimalist/soft variants, 3-dial parameterization (variance, motion, density)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T22:57:24Z",
-            "owner": "Leonxlnx",
-            "repo": "taste-skill",
-            "stars": 77550
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ComposioHQ/awesome-claude-skills — canvas-design",
-          "description": "design philosophy expressed visually: two-phase (philosophy → artifact), 90% visual / 10% essential text, anti-template by construction",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T21:45:44Z",
-            "owner": "ComposioHQ",
-            "repo": "awesome-claude-skills",
-            "stars": 72705
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dammyjay93/interface-design",
-          "description": "design engineering for Claude Code (formerly ): persistent design system file, slash commands for init/audit/extract, enforces token consistency between sessions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-06-20T11:32:45Z",
-            "owner": "Dammyjay93",
-            "repo": "interface-design",
-            "stars": 5473
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "coleam00/excalidraw-diagram-skill",
-          "description": "diagram skill that argues visually instead of slapping boxes-and-arrows; Playwright render-validate loop catches overlap, misalignment, bad spacing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-01T13:36:16Z",
-            "owner": "coleam00",
-            "repo": "excalidraw-diagram-skill",
-            "stars": 4463
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OneRedOak/claude-code-workflows — design-review",
-          "description": "Patrick Ellis's UI/UX review workflow: subagents + slash command + CLAUDE.md memory integration + accessibility coverage via Playwright MCP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-09-14T07:33:32Z",
-            "owner": "OneRedOak",
-            "repo": "claude-code-workflows",
-            "stars": 3885
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Marie Claire Dean — 63 design skills",
-          "description": "(repo ) — 63 skills + 27 commands across research, systems, strategy, UI, interaction, prototyping, ops; teaches Claude what design actually is beyond image generation. MIT",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Markdown",
-            "last_commit": "2026-08-08T16:02:37Z",
-            "owner": "Owl-Listener",
-            "repo": "designer-skills",
-            "stars": 2099
-          }
-        }
-      ],
-      "title": "Community anti-slop tools"
-    },
-    {
-      "description": "Claude Code skills and SkillKit plugins that pair with Claude Design.",
+      "description": "Claude Code skills and SkillKit plugins that pair with Claude Design.\nInstall via SkillKit:",
       "items": [
         {
           "node_type": "item",
@@ -533,11 +662,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1084853233,
             "language": null,
-            "last_commit": "2026-08-16T11:52:26Z",
+            "last_commit": "2026-08-18T12:20:59Z",
             "owner": "VoltAgent",
             "repo": "awesome-agent-skills",
-            "stars": 30472
+            "stars": 30531
           }
         },
         {
@@ -547,6 +677,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1138376193,
             "language": "TypeScript",
             "last_commit": "2026-06-02T09:43:09Z",
             "owner": "rohitg00",
@@ -561,6 +692,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1138376193,
             "language": "TypeScript",
             "last_commit": "2026-06-02T09:43:09Z",
             "owner": "rohitg00",
@@ -575,6 +707,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1138376193,
             "language": "TypeScript",
             "last_commit": "2026-06-02T09:43:09Z",
             "owner": "rohitg00",
@@ -589,6 +722,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1138376193,
             "language": "TypeScript",
             "last_commit": "2026-06-02T09:43:09Z",
             "owner": "rohitg00",
@@ -603,6 +737,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1138376193,
             "language": "TypeScript",
             "last_commit": "2026-06-02T09:43:09Z",
             "owner": "rohitg00",
@@ -617,6 +752,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1138376193,
             "language": "TypeScript",
             "last_commit": "2026-06-02T09:43:09Z",
             "owner": "rohitg00",
@@ -631,194 +767,117 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1016034523,
             "language": "HTML",
             "last_commit": "2026-03-10T20:51:45Z",
             "owner": "jonthebeef",
             "repo": "superdesign-mcp-claude-code",
             "stars": 77
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Leonxlnx/taste-skill",
+              "description": "premium UI gen, redesign audits, GSAP motion, brutalist/minimalist/soft variants",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1162099055,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T22:57:24Z",
+                "owner": "Leonxlnx",
+                "repo": "taste-skill",
+                "stars": 77958
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ComposioHQ/awesome-claude-skills — canvas-design",
+              "description": "design philosophy → poster/PDF artifact, two-phase",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1078079172,
+                "language": "Python",
+                "last_commit": "2026-08-10T21:45:44Z",
+                "owner": "ComposioHQ",
+                "repo": "awesome-claude-skills",
+                "stars": 72777
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dammyjay93/interface-design",
+              "description": "persistent design-system memory + slash command",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1127982345,
+                "language": "Shell",
+                "last_commit": "2026-06-20T11:32:45Z",
+                "owner": "Dammyjay93",
+                "repo": "interface-design",
+                "stars": 5477
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "coleam00/excalidraw-diagram-skill",
+              "description": "diagrams that argue visually; render-validate loop",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1169920711,
+                "language": "Python",
+                "last_commit": "2026-03-01T13:36:16Z",
+                "owner": "coleam00",
+                "repo": "excalidraw-diagram-skill",
+                "stars": 4471
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OneRedOak/claude-code-workflows",
+              "description": "Patrick Ellis design-review subagents + + CLAUDE.md excerpts; needs Playwright MCP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1036412176,
+                "language": null,
+                "last_commit": "2025-09-14T07:33:32Z",
+                "owner": "OneRedOak",
+                "repo": "claude-code-workflows",
+                "stars": 3885
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Owl-Listener/designer-skills",
+              "description": "Marie-Claire Dean's 63 skills + 27 commands + 8 plugins, MIT — covering research, systems, strategy, UI, interaction, prototyping, ops, and the toolkit itself",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1175316550,
+                "language": "Markdown",
+                "last_commit": "2026-08-08T16:02:37Z",
+                "owner": "Owl-Listener",
+                "repo": "designer-skills",
+                "stars": 2114
+              }
+            }
+          ],
+          "description": "The same anti-slop tools listed above, with explicit install commands. Mix and match — most chain cleanly with the SkillKit packs above.",
+          "node_type": "group",
+          "title": "Community installs"
         }
       ],
       "title": "Skills & Plugins"
-    },
-    {
-      "description": "The same anti-slop tools listed above, with explicit install commands. Mix and match — most chain cleanly with the SkillKit packs above.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Leonxlnx/taste-skill",
-          "description": "premium UI gen, redesign audits, GSAP motion, brutalist/minimalist/soft variants",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-17T22:57:24Z",
-            "owner": "Leonxlnx",
-            "repo": "taste-skill",
-            "stars": 77550
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ComposioHQ/awesome-claude-skills — canvas-design",
-          "description": "design philosophy → poster/PDF artifact, two-phase",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T21:45:44Z",
-            "owner": "ComposioHQ",
-            "repo": "awesome-claude-skills",
-            "stars": 72705
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dammyjay93/interface-design",
-          "description": "persistent design-system memory + slash command",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-06-20T11:32:45Z",
-            "owner": "Dammyjay93",
-            "repo": "interface-design",
-            "stars": 5473
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "coleam00/excalidraw-diagram-skill",
-          "description": "diagrams that argue visually; render-validate loop",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-01T13:36:16Z",
-            "owner": "coleam00",
-            "repo": "excalidraw-diagram-skill",
-            "stars": 4463
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OneRedOak/claude-code-workflows",
-          "description": "Patrick Ellis design-review subagents + + CLAUDE.md excerpts; needs Playwright MCP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-09-14T07:33:32Z",
-            "owner": "OneRedOak",
-            "repo": "claude-code-workflows",
-            "stars": 3885
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Owl-Listener/designer-skills",
-          "description": "Marie-Claire Dean's 63 skills + 27 commands + 8 plugins, MIT — covering research, systems, strategy, UI, interaction, prototyping, ops, and the toolkit itself",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Markdown",
-            "last_commit": "2026-08-08T16:02:37Z",
-            "owner": "Owl-Listener",
-            "repo": "designer-skills",
-            "stars": 2099
-          }
-        }
-      ],
-      "title": "Community installs"
-    },
-    {
-      "description": "MCP servers, plugins, and IDE adapters that pair with Claude Design or extend it via Claude Code handoff. Most live outside the product surface — wire them up once, then route Claude Design's exports through them.",
-      "items": [],
-      "title": "Integrations"
-    },
-    {
-      "description": "Claude Design ships built-in AI outputs that previously needed separate tools — Voice, Video, 3D, and Shaders are all generated inline (per the Anthropic launch post). Connectors (Slack, Drive, internal docs) plug into the design loop without extra MCP wiring; high-leverage but burns quota fast.",
-      "items": [],
-      "title": "Frontier features"
-    },
-    {
-      "description": "The writing worth reading after the launch dust settled. Grouped by platform.",
-      "items": [],
-      "title": "Long-Form Tutorials"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Substack"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Medium"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Blog / Other"
-    },
-    {
-      "description": "Non-English coverage worth tracking. Different angles, different audiences — useful both for translation reach and because regional press often surfaces angles the US-centric wave misses.",
-      "items": [],
-      "title": "International Coverage"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "French"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Spanish"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Italian"
-    },
-    {
-      "description": "PRs adding more international sources welcome — Korean, Chinese, German, Portuguese, and other regional coverage are gaps we'd like to fill. Open an issue or PR with the URL, language tag, and one-line value.",
-      "items": [],
-      "title": "Japanese"
-    },
-    {
-      "description": "High-leverage tactics from creators who actually shipped with it. Attribution on every claim.",
-      "items": [],
-      "title": "Tips & Tricks"
-    },
-    {
-      "description": "Does Claude Design replace Figma? Not today. Replaces the first-draft stage (wireframes, comps, pitch decks). Teams still round-trip through Figma for collab, dev handoff, plugins.\nOpus 4.7 required? Bundled at launch. Sonnet 4.6 works, produces weaker systems. Long-task hallucination reports are real.\nFigma file import? Yes — drag in chat. Single pages work well; multi-file libraries hit-or-miss at launch.\nPrice? Bundled in Pro / Max / Team / Enterprise. Per-seat Team pricing not yet published.\nWill I burn through my Pro quota? Almost certainly, if you chat-prompt every change. Reddit reports of \"two prompts ate 95% of my weekly limit\" are real — Opus 4.7 vision tokens cost roughly 3x equivalent text. Use the recipe: scaffold once, cap at 4 reference screens, switch to inline comments for iteration, branch for variants, bundle to Claude Code in one shot. Claude Design has its own quota separate from chat — but if you also use Claude Code, that quota is shared.\nData training? Per Anthropic's policy: no, not by default for paid tiers. Verify on anthropic.com/legal/privacy before shipping sensitive work.\nVideos? Yes. Per @petergyang, \"creates beautiful videos, more so than slides.\" Greg Isenberg less impressed. Try and decide.\nOpen-source alternative? SuperDesign — runs in your IDE, MIT, BYO model.\nIs on GitHub real? No. Typo-squat. Claude Design lives at claude.ai/design behind a paid login. No download exists.",
-      "items": [],
-      "title": "FAQ"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Related OSS Projects"
-    },
-    {
-      "description": "Inline tag badges used across , prompt packs, recipes, and remix files. Fork and remix freely — sources under .",
-      "items": [],
-      "title": "Tag System"
-    },
-    {
-      "description": "Bar: would a working designer or engineer find this useful in the next 48 hours?\nAccepted: original DESIGN.md files in any aesthetic family · remix recipes (two-brand combos) · prompt packs with before/after screenshots · workflow recipes you actually ran · video teardowns > 2K views OR with substantive critique · comparison data with receipts · X-handle quotes with links + engagement · screenshots/GIFs of real output.\nRejected: affiliate links · screenshots without reproducible prompts · \"cool thing!\" with no context · re-packaged VoltAgent entries (link upstream) · slop · emoji-heavy headers · typo-squat repos.\nPR template: title . Body = swatch + type + reference link + reproducibility notes.\nSee CONTRIBUTING.md.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "MIT. Use, fork, remix, ship.\nNot affiliated with Anthropic. \"Claude\" and \"Claude Design\" are trademarks of Anthropic PBC. Brand names in referenced DESIGN.md files belong to their respective owners — included for educational commentary only.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:05:50.162Z",
+    "last_updated": "2026-08-19T09:06:59.508Z",
     "original_repository": "rohitg00/awesome-claude-design",
     "original_repository_sha": "7f60ee56b9340f8c2671a08c2d8aab4037546a64",
     "enhanced_repository": "enhansome/enhansome-claude-design",

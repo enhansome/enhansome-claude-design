@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T17:10:55Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 171285
+            "stars": 171322
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T17:10:55Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 171285
+            "stars": 171322
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T20:42:54Z",
             "owner": "anthropics",
             "repo": "claude-cookbooks",
-            "stars": 52070
+            "stars": 52080
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-19T20:42:54Z",
             "owner": "anthropics",
             "repo": "claude-cookbooks",
-            "stars": 52070
+            "stars": 52080
           }
         }
       ],
@@ -83,7 +83,7 @@
                 "last_commit": "2026-07-31T12:32:42Z",
                 "owner": "VoltAgent",
                 "repo": "awesome-design-md",
-                "stars": 109975
+                "stars": 110061
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2026-07-27T21:15:07Z",
                 "owner": "google-labs-code",
                 "repo": "design.md",
-                "stars": 27475
+                "stars": 27478
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-06-20T17:54:18Z",
                 "owner": "VoltAgent",
                 "repo": "awesome-claude-design",
-                "stars": 3520
+                "stars": 3525
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-10T21:45:44Z",
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73130
+                "stars": 73143
               }
             },
             {
@@ -155,10 +155,10 @@
                 "archived": false,
                 "id": 969302809,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:18:09Z",
+                "last_commit": "2026-08-24T12:09:28Z",
                 "owner": "hesreallyhim",
                 "repo": "awesome-claude-code",
-                "stars": 52899
+                "stars": 52911
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-24T05:30:55Z",
                 "owner": "sickn33",
                 "repo": "agentic-awesome-skills",
-                "stars": 45331
+                "stars": 45333
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-04-28T19:30:24Z",
                 "owner": "travisvn",
                 "repo": "awesome-claude-skills",
-                "stars": 14795
+                "stars": 14800
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-08-02T11:06:52Z",
                 "owner": "BehiSecc",
                 "repo": "awesome-claude-skills",
-                "stars": 10051
+                "stars": 10053
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2026-04-05T20:39:24Z",
                 "owner": "heilcheng",
                 "repo": "awesome-agent-skills",
-                "stars": 6135
+                "stars": 6136
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-05-12T07:18:34Z",
                 "owner": "rohitg00",
                 "repo": "awesome-claude-code-toolkit",
-                "stars": 2543
+                "stars": 2546
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-05-25T18:28:25Z",
                 "owner": "bergside",
                 "repo": "design-md-chrome",
-                "stars": 2722
+                "stars": 2724
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2026-08-24T04:46:58Z",
                 "owner": "bitjaru",
                 "repo": "styleseed",
-                "stars": 915
+                "stars": 916
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2026-08-03T06:00:29Z",
                 "owner": "yuvrajangadsingh",
                 "repo": "brandmd",
-                "stars": 55
+                "stars": 56
               }
             },
             {
@@ -341,6 +341,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "claude-cookbooks / prompting_for_frontend_aesthetics.ipynb",
+              "description": "official anti-slop notebook",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 678973052,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-19T20:42:54Z",
+                "owner": "anthropics",
+                "repo": "claude-cookbooks",
+                "stars": 52080
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official (Anthropic)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "nextlevelbuilder/ui-ux-pro-max-skill",
               "description": "professional UI/UX across platforms",
               "children": [],
@@ -348,10 +370,10 @@
                 "archived": false,
                 "id": 1106996539,
                 "language": "Python",
-                "last_commit": "2026-08-20T11:49:07Z",
+                "last_commit": "2026-08-24T13:55:44Z",
                 "owner": "nextlevelbuilder",
                 "repo": "ui-ux-pro-max-skill",
-                "stars": 120384
+                "stars": 120469
               }
             },
             {
@@ -366,7 +388,7 @@
                 "last_commit": "2026-08-24T06:19:36Z",
                 "owner": "VoltAgent",
                 "repo": "awesome-agent-skills",
-                "stars": 31540
+                "stars": 31657
               }
             },
             {
@@ -381,7 +403,7 @@
                 "last_commit": "2026-08-21T09:39:58Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 24880
+                "stars": 24893
               }
             },
             {
@@ -411,7 +433,7 @@
                 "last_commit": "2026-08-08T16:02:37Z",
                 "owner": "Owl-Listener",
                 "repo": "designer-skills",
-                "stars": 2143
+                "stars": 2144
               }
             },
             {
@@ -529,7 +551,7 @@
                 "last_commit": "2026-08-21T17:10:55Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 171285
+                "stars": 171322
               }
             },
             {
@@ -544,7 +566,7 @@
                 "last_commit": "2026-08-19T20:42:54Z",
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52070
+                "stars": 52080
               }
             }
           ],
@@ -563,10 +585,10 @@
                 "archived": false,
                 "id": 1162099055,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T15:27:49Z",
+                "last_commit": "2026-08-24T13:59:24Z",
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 79856
+                "stars": 79953
               }
             },
             {
@@ -581,7 +603,7 @@
                 "last_commit": "2026-08-10T21:45:44Z",
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73130
+                "stars": 73143
               }
             },
             {
@@ -596,7 +618,7 @@
                 "last_commit": "2026-06-20T11:32:45Z",
                 "owner": "Dammyjay93",
                 "repo": "interface-design",
-                "stars": 5585
+                "stars": 5587
               }
             },
             {
@@ -611,7 +633,7 @@
                 "last_commit": "2026-03-01T13:36:16Z",
                 "owner": "coleam00",
                 "repo": "excalidraw-diagram-skill",
-                "stars": 4518
+                "stars": 4522
               }
             },
             {
@@ -626,7 +648,7 @@
                 "last_commit": "2025-09-14T07:33:32Z",
                 "owner": "OneRedOak",
                 "repo": "claude-code-workflows",
-                "stars": 3889
+                "stars": 3888
               }
             },
             {
@@ -641,7 +663,7 @@
                 "last_commit": "2026-08-08T16:02:37Z",
                 "owner": "Owl-Listener",
                 "repo": "designer-skills",
-                "stars": 2143
+                "stars": 2144
               }
             }
           ],
@@ -667,7 +689,7 @@
             "last_commit": "2026-08-24T06:19:36Z",
             "owner": "VoltAgent",
             "repo": "awesome-agent-skills",
-            "stars": 31540
+            "stars": 31657
           }
         },
         {
@@ -786,10 +808,10 @@
                 "archived": false,
                 "id": 1162099055,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T15:27:49Z",
+                "last_commit": "2026-08-24T13:59:24Z",
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 79856
+                "stars": 79953
               }
             },
             {
@@ -804,7 +826,7 @@
                 "last_commit": "2026-08-10T21:45:44Z",
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73130
+                "stars": 73143
               }
             },
             {
@@ -819,7 +841,7 @@
                 "last_commit": "2026-06-20T11:32:45Z",
                 "owner": "Dammyjay93",
                 "repo": "interface-design",
-                "stars": 5585
+                "stars": 5587
               }
             },
             {
@@ -834,7 +856,7 @@
                 "last_commit": "2026-03-01T13:36:16Z",
                 "owner": "coleam00",
                 "repo": "excalidraw-diagram-skill",
-                "stars": 4518
+                "stars": 4522
               }
             },
             {
@@ -849,7 +871,7 @@
                 "last_commit": "2025-09-14T07:33:32Z",
                 "owner": "OneRedOak",
                 "repo": "claude-code-workflows",
-                "stars": 3889
+                "stars": 3888
               }
             },
             {
@@ -864,7 +886,7 @@
                 "last_commit": "2026-08-08T16:02:37Z",
                 "owner": "Owl-Listener",
                 "repo": "designer-skills",
-                "stars": 2143
+                "stars": 2144
               }
             }
           ],
@@ -874,10 +896,286 @@
         }
       ],
       "title": "Skills & Plugins"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "superdesigndev/superdesign",
+          "description": "Open-source AI design agent in the IDE, MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1005359642,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T04:55:32Z",
+            "owner": "superdesigndev",
+            "repo": "superdesign",
+            "stars": 6883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jonthebeef/superdesign-mcp-claude-code",
+          "description": "SuperDesign as Claude Code MCP, no API key",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1016034523,
+            "language": "HTML",
+            "last_commit": "2026-03-10T20:51:45Z",
+            "owner": "jonthebeef",
+            "repo": "superdesign-mcp-claude-code",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Owl-Listener/designer-skills",
+          "description": "Designer Skills Collection by MC Dean, MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1175316550,
+            "language": "Markdown",
+            "last_commit": "2026-08-08T16:02:37Z",
+            "owner": "Owl-Listener",
+            "repo": "designer-skills",
+            "stars": 2144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Owl-Listener/designpowers",
+          "description": "Specialist design agents, Direct + Auto modes, MIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1185613751,
+            "language": "Shell",
+            "last_commit": "2026-06-23T12:41:40Z",
+            "owner": "Owl-Listener",
+            "repo": "designpowers",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoltAgent/awesome-claude-design",
+          "description": "Brand DESIGN.md catalog, industry-sorted",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1214125715,
+            "language": null,
+            "last_commit": "2026-06-20T17:54:18Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-claude-design",
+            "stars": 3525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoltAgent/awesome-design-md",
+          "description": "Stitch-format DESIGN.md collection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1197515131,
+            "language": null,
+            "last_commit": "2026-07-31T12:32:42Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-design-md",
+            "stars": 110061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoltAgent/awesome-agent-skills",
+          "description": "Skills incl. , ,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1084853233,
+            "language": null,
+            "last_commit": "2026-08-24T06:19:36Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-agent-skills",
+            "stars": 31657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "saifyxpro/ui-ux-design-pro-skill",
+          "description": "Styles, palettes, fonts, CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1157758884,
+            "language": "TypeScript",
+            "last_commit": "2026-02-19T02:02:05Z",
+            "owner": "saifyxpro",
+            "repo": "ui-ux-design-pro-skill",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "Multi-platform UI/UX skill",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1106996539,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:55:44Z",
+            "owner": "nextlevelbuilder",
+            "repo": "ui-ux-pro-max-skill",
+            "stars": 120469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alirezarezvani/claude-skills",
+          "description": "Skills across engineering, product, marketing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1079084637,
+            "language": "Python",
+            "last_commit": "2026-08-21T09:39:58Z",
+            "owner": "alirezarezvani",
+            "repo": "claude-skills",
+            "stars": 24893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "daymade/claude-code-skills",
+          "description": "Claude Code skills marketplace",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1081140442,
+            "language": "Python",
+            "last_commit": "2026-08-24T07:33:53Z",
+            "owner": "daymade",
+            "repo": "claude-code-skills",
+            "stars": 1348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abhishekray07/claude-md-templates",
+          "description": "CLAUDE.md + rules best practices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1149942938,
+            "language": null,
+            "last_commit": "2026-05-18T16:18:25Z",
+            "owner": "abhishekray07",
+            "repo": "claude-md-templates",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smartwhale8/claude-playbook",
+          "description": "Production GitHub template",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1158696742,
+            "language": "Shell",
+            "last_commit": "2026-02-15T19:27:26Z",
+            "owner": "smartwhale8",
+            "repo": "claude-playbook",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropics/claude-cookbooks",
+          "description": "Official Anthropic notebooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 678973052,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-19T20:42:54Z",
+            "owner": "anthropics",
+            "repo": "claude-cookbooks",
+            "stars": 52080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rohitg00/awesome-claude-plugins",
+          "description": "Claude Code plugin ecosystem",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1197081492,
+            "language": null,
+            "last_commit": "2026-03-31T10:13:08Z",
+            "owner": "rohitg00",
+            "repo": "awesome-claude-plugins",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rohitg00/awesome-claude-code-toolkit",
+          "description": "Hooks, skills, slash commands",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1150071903,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T07:18:34Z",
+            "owner": "rohitg00",
+            "repo": "awesome-claude-code-toolkit",
+            "stars": 2546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rohitg00/skillkit",
+          "description": "Universal CLI for skills across many agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1138376193,
+            "language": "TypeScript",
+            "last_commit": "2026-06-02T09:43:09Z",
+            "owner": "rohitg00",
+            "repo": "skillkit",
+            "stars": 1465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hesreallyhim/awesome-claude-code",
+          "description": "General Claude Code resources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 969302809,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:09:28Z",
+            "owner": "hesreallyhim",
+            "repo": "awesome-claude-code",
+            "stars": 52911
+          }
+        }
+      ],
+      "title": "Related OSS Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:26:48.007Z",
+    "last_updated": "2026-08-24T14:14:24.723Z",
     "original_repository": "rohitg00/awesome-claude-design",
     "original_repository_id": 1214951658,
     "original_repository_sha": "7f60ee56b9340f8c2671a08c2d8aab4037546a64",

@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for Agent Skills",
+            "homepage": null,
             "id": 1061953414,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
+            "open_issues": 1186,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172267
+            "stars": 172317,
+            "topics": [
+              "agent-skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -26,12 +33,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for Agent Skills",
+            "homepage": null,
             "id": 1061953414,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-21T17:10:55Z",
+            "open_issues": 1186,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 172267
+            "stars": 172317,
+            "topics": [
+              "agent-skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "homepage": null,
             "id": 678973052,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-19T20:42:54Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:53:43Z",
+            "open_issues": 318,
             "owner": "anthropics",
             "repo": "claude-cookbooks",
-            "stars": 52239
+            "stars": 52249,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -58,12 +77,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "homepage": null,
             "id": 678973052,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-19T20:42:54Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:53:43Z",
+            "open_issues": 318,
             "owner": "anthropics",
             "repo": "claude-cookbooks",
-            "stars": 52239
+            "stars": 52249,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         }
@@ -82,12 +106,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+                "homepage": "https://getdesign.md/",
                 "id": 1197515131,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-31T12:32:42Z",
+                "open_issues": 320,
                 "owner": "VoltAgent",
                 "repo": "awesome-design-md",
-                "stars": 111076
+                "stars": 111115,
+                "topics": [
+                  "awesome-list",
+                  "design-md",
+                  "design-system",
+                  "design-tokens",
+                  "figma",
+                  "google-stitch",
+                  "landing-page",
+                  "vibe-coding",
+                  "vibe-design",
+                  "vibecoding"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -98,12 +138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+                "homepage": "https://stitch.withgoogle.com/docs/design-md/specification",
                 "id": 1207222725,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-27T21:15:07Z",
+                "open_issues": 41,
                 "owner": "google-labs-code",
                 "repo": "design.md",
-                "stars": 27578
+                "stars": 27580,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -114,12 +159,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
+                "homepage": null,
                 "id": 1214125715,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-06-20T17:54:18Z",
+                "open_issues": 1,
                 "owner": "VoltAgent",
                 "repo": "awesome-claude-design",
-                "stars": 3570
+                "stars": 3571,
+                "topics": [
+                  "claude-code",
+                  "claude-design",
+                  "design-md",
+                  "design-system",
+                  "figma"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -130,12 +186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
+                "homepage": null,
                 "id": 1215744464,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-18T12:41:05Z",
+                "open_issues": 0,
                 "owner": "philquist",
                 "repo": "awesome-claude-design-examples",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -146,12 +207,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+                "homepage": null,
                 "id": 1078079172,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-10T21:45:44Z",
+                "open_issues": 1346,
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73811
+                "stars": 73827,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "antigravity",
+                  "automation",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "composio",
+                  "cursor",
+                  "developer-tools",
+                  "gemini-cli",
+                  "mcp",
+                  "openai-codex",
+                  "rube",
+                  "saas",
+                  "skill",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -162,12 +246,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+                "homepage": null,
                 "id": 969302809,
                 "language": "Python",
-                "last_commit": "2026-08-28T16:08:58Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:10:54Z",
+                "open_issues": 945,
                 "owner": "hesreallyhim",
                 "repo": "awesome-claude-code",
-                "stars": 53134
+                "stars": 53148,
+                "topics": [
+                  "agent-skills",
+                  "agentic-code",
+                  "agentic-coding",
+                  "ai-workflow-optimization",
+                  "ai-workflows",
+                  "anthropic",
+                  "anthropic-claude",
+                  "awesome",
+                  "awesome-claude-code",
+                  "awesome-list",
+                  "awesome-lists",
+                  "awesome-resources",
+                  "claude",
+                  "claude-code",
+                  "coding-agent",
+                  "coding-agents",
+                  "coding-assistant",
+                  "coding-assistants",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -178,12 +287,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+                "homepage": "https://sickn33.github.io/agentic-awesome-skills/",
                 "id": 1134426800,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:51:32Z",
+                "open_issues": 1,
                 "owner": "sickn33",
                 "repo": "agentic-awesome-skills",
-                "stars": 45599
+                "stars": 45614,
+                "topics": [
+                  "agent-skills",
+                  "agentic-skills",
+                  "ai-agent-skills",
+                  "ai-agents",
+                  "ai-coding",
+                  "ai-workflows",
+                  "antigravity",
+                  "antigravity-skills",
+                  "claude-code",
+                  "claude-code-skills",
+                  "codex-cli",
+                  "codex-skills",
+                  "cursor",
+                  "cursor-skills",
+                  "developer-tools",
+                  "gemini-cli",
+                  "gemini-skills",
+                  "kiro",
+                  "mcp",
+                  "skill-library"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -194,12 +329,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
+                "homepage": null,
                 "id": 1077850011,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-28T19:30:24Z",
+                "open_issues": 773,
                 "owner": "travisvn",
                 "repo": "awesome-claude-skills",
-                "stars": 14871
+                "stars": 14873,
+                "topics": [
+                  "agentic-coding",
+                  "anthropic",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "claude",
+                  "claude-ai",
+                  "claude-code",
+                  "claude-desktop",
+                  "claude-skills",
+                  "claudeskills"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -210,12 +362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Claude Skills.",
+                "homepage": null,
                 "id": 1078332194,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-02T11:06:52Z",
+                "open_issues": 120,
                 "owner": "BehiSecc",
                 "repo": "awesome-claude-skills",
-                "stars": 10065
+                "stars": 10064,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -226,12 +383,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tutorials, Guides and Agent Skills Directories",
+                "homepage": "http://agent-skill.co",
                 "id": 1124920990,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-05T20:39:24Z",
+                "open_issues": 278,
                 "owner": "heilcheng",
                 "repo": "awesome-agent-skills",
-                "stars": 6151
+                "stars": 6151,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "ai-development",
+                  "anthropic",
+                  "automation",
+                  "awesome",
+                  "awesome-list",
+                  "claude",
+                  "codex",
+                  "github-copilot",
+                  "llm",
+                  "mcp",
+                  "openai",
+                  "productivity",
+                  "skill-md",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -242,12 +421,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.",
+                "homepage": null,
                 "id": 1150071903,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-12T07:18:34Z",
+                "open_issues": 294,
                 "owner": "rohitg00",
                 "repo": "awesome-claude-code-toolkit",
-                "stars": 2562
+                "stars": 2567,
+                "topics": [
+                  "claude",
+                  "claude-code",
+                  "claudecode",
+                  "claudecode-hooks",
+                  "plugins",
+                  "skills"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -258,12 +449,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows",
+                "homepage": "https://awesomeclaudeplugins.com",
                 "id": 1086692156,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T02:32:57Z",
+                "license": null,
+                "last_commit": "2026-08-29T02:20:58Z",
+                "open_issues": 1,
                 "owner": "quemsah",
                 "repo": "awesome-claude-plugins",
-                "stars": 1247
+                "stars": 1248,
+                "topics": [
+                  "awesome-list",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "claude-code-plugins",
+                  "claude-code-plugins-marketplace"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -274,12 +476,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic's Claude Code. ",
+                "homepage": "https://www.scriptbyai.com/claude-code-resource-list/",
                 "id": 1019011969,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-23T14:33:33Z",
+                "open_issues": 511,
                 "owner": "jqueryscript",
                 "repo": "awesome-claude-code",
-                "stars": 505
+                "stars": 505,
+                "topics": [
+                  "awesome-list",
+                  "awesome-lists",
+                  "claude",
+                  "claude-code",
+                  "claude-code-plugin",
+                  "claude-skills",
+                  "cli",
+                  "code-generation",
+                  "coding-agents",
+                  "vibe-coding"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -290,12 +508,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
+                "homepage": "https://chromewebstore.google.com/detail/designmd-style-extractor/ogpdnchdjiibhobphelbbkemnnemkfma",
                 "id": 1210537388,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-25T18:28:25Z",
+                "open_issues": 1,
                 "owner": "bergside",
                 "repo": "design-md-chrome",
-                "stars": 2747
+                "stars": 2746,
+                "topics": [
+                  "ai",
+                  "chrome",
+                  "chrome-extension",
+                  "claude",
+                  "claude-design",
+                  "codex",
+                  "design-md",
+                  "design-skills",
+                  "extension",
+                  "gemini",
+                  "open-source",
+                  "skills",
+                  "skills-ai",
+                  "typeui"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -306,12 +544,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source design-method engine for Claude Code, Codex & Cursor. 23 agent skills for fixed design judgment, multiple grammars, semantic palettes, reference compilation, and evidence-verified UI. MIT.",
+                "homepage": "https://styleseed-demo.vercel.app",
                 "id": 1203405919,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T06:17:21Z",
+                "open_issues": 11,
                 "owner": "bitjaru",
                 "repo": "styleseed",
-                "stars": 926
+                "stars": 926,
+                "topics": [
+                  "agent-skills",
+                  "ai-coding",
+                  "ai-design",
+                  "ai-ui",
+                  "claude-code",
+                  "claude-skills",
+                  "codex",
+                  "cursor",
+                  "design-judgment",
+                  "design-system",
+                  "design-tokens",
+                  "nextjs",
+                  "radix-ui",
+                  "react",
+                  "shadcn",
+                  "shadcn-ui",
+                  "tailwindcss",
+                  "typescript",
+                  "ui-design",
+                  "vibe-coding"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -322,12 +586,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stop Claude Code/Cursor from guessing UI. Extract any website's design system into a spec-valid DESIGN.md that passes the official @google/design.md linter.",
+                "homepage": "https://www.npmjs.com/package/brandmd",
                 "id": 1191491499,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-03T06:00:29Z",
+                "open_issues": 0,
                 "owner": "yuvrajangadsingh",
                 "repo": "brandmd",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "ai",
+                  "ai-coding",
+                  "brand",
+                  "brand-guide",
+                  "claude-code",
+                  "cli",
+                  "codex-cli",
+                  "coding-agents",
+                  "css",
+                  "css-variables",
+                  "cursor",
+                  "design-md",
+                  "design-system",
+                  "design-tokens",
+                  "developer-tools",
+                  "gemini-cli",
+                  "google-stitch",
+                  "tailwind",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -338,12 +627,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distill any website's design system into a reusable, Stitch-compatible DESIGN.md. Works with Claude Code, Codex, and any AI agent.",
+                "homepage": null,
                 "id": 1201208996,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-14T15:48:11Z",
+                "open_issues": 0,
                 "owner": "Muluk-m",
                 "repo": "design-distill",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "ai-agent",
+                  "design-md",
+                  "design-system",
+                  "design-tokens",
+                  "google-stitch",
+                  "skills",
+                  "stitch"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             }
@@ -367,12 +669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+                "homepage": null,
                 "id": 678973052,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T20:42:54Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:53:43Z",
+                "open_issues": 318,
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52239
+                "stars": 52249,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             }
@@ -390,12 +697,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+                "homepage": "https://www.uupm.cc/",
                 "id": 1106996539,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T09:15:37Z",
+                "open_issues": 90,
                 "owner": "nextlevelbuilder",
                 "repo": "ui-ux-pro-max-skill",
-                "stars": 122543
+                "stars": 122621,
+                "topics": [
+                  "ai-skills",
+                  "antigravity",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "command-line",
+                  "copilot",
+                  "cursor-ai",
+                  "html5",
+                  "kiro",
+                  "landing-page",
+                  "mobile-ui",
+                  "qoder",
+                  "react",
+                  "tailwindcss",
+                  "trae",
+                  "ui-design",
+                  "uikit",
+                  "windsurf-ai"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -406,12 +738,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+                "homepage": "https://officialskills.sh/",
                 "id": 1084853233,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:15:01Z",
+                "open_issues": 18,
                 "owner": "VoltAgent",
                 "repo": "awesome-agent-skills",
-                "stars": 33033
+                "stars": 33091,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "awesome",
+                  "awesome-list",
+                  "claude-code",
+                  "claude-code-skills",
+                  "claude-skills",
+                  "codex-skills",
+                  "cursor-skills",
+                  "gemini-skills",
+                  "opencode-skills",
+                  "skills"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -422,12 +772,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+                "homepage": "https://alirezarezvani.medium.com/",
                 "id": 1079084637,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T15:12:59Z",
+                "open_issues": 7,
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 25153
+                "stars": 25170,
+                "topics": [
+                  "agent-plugins",
+                  "agent-skills",
+                  "agentic-ai",
+                  "ai-coding-agent",
+                  "anthropic-claude",
+                  "claude-ai",
+                  "claude-code",
+                  "claude-code-plugins",
+                  "claude-code-skills",
+                  "claude-skills",
+                  "codex-skills",
+                  "coding-agent-plugins",
+                  "cursor-skills",
+                  "developer-tools",
+                  "gemini-cli-skills",
+                  "openai-codex",
+                  "openclaw",
+                  "openclaw-plugins",
+                  "openclaw-skills",
+                  "prompt-engineering"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -438,12 +814,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Product Design Agent - Open Source",
+                "homepage": "http://superdesign.dev/ide-extension",
                 "id": 1005359642,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-29T04:55:32Z",
+                "open_issues": 75,
                 "owner": "superdesigndev",
                 "repo": "superdesign",
-                "stars": 6899
+                "stars": 6899,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -454,12 +835,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Designer Skills Collection: agentic skills, commands, and plugins for design — from research to systems, UI, interaction, and delivery.",
+                "homepage": null,
                 "id": 1175316550,
                 "language": "Markdown",
+                "license": "MIT",
                 "last_commit": "2026-08-08T16:02:37Z",
+                "open_issues": 2,
                 "owner": "Owl-Listener",
                 "repo": "designer-skills",
-                "stars": 2377
+                "stars": 2383,
+                "topics": [
+                  "agentic",
+                  "agentic-ai",
+                  "ai",
+                  "ai-tools",
+                  "claude-code",
+                  "design-system",
+                  "design-systems",
+                  "prompt-engineering",
+                  "skills",
+                  "ux-design"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -470,12 +867,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.",
+                "homepage": null,
                 "id": 1081140442,
                 "language": "Python",
-                "last_commit": "2026-08-28T13:30:33Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:23:16Z",
+                "open_issues": 11,
                 "owner": "daymade",
                 "repo": "claude-code-skills",
-                "stars": 1357
+                "stars": 1358,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -486,12 +888,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLAUDE.md best practices",
+                "homepage": "https://claudecodecamp.com",
                 "id": 1149942938,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-18T16:18:25Z",
+                "open_issues": 0,
                 "owner": "abhishekray07",
                 "repo": "claude-md-templates",
-                "stars": 322
+                "stars": 321,
+                "topics": [
+                  "claude-code",
+                  "claudemd"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -502,12 +912,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An agent design team you control: 10 agents that run an inclusive design process while you direct.",
+                "homepage": null,
                 "id": 1185613751,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-06-23T12:41:40Z",
+                "open_issues": 3,
                 "owner": "Owl-Listener",
                 "repo": "designpowers",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "agent-framework",
+                  "agent-orchestration",
+                  "agentic-ai",
+                  "ai",
+                  "ai-agents",
+                  "design"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -518,12 +940,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1016034523,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-03-10T20:51:45Z",
+                "open_issues": 2,
                 "owner": "jonthebeef",
                 "repo": "superdesign-mcp-claude-code",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -534,12 +961,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI spairings, 150+ reasoning rules, CLI, and 18 platform templates. Works with Claude, Cursor, Windsurf, Copilot, Antigravity, Cline & more.kill for premium UI/UX design — 107 styles, 127 palettes, 107 font ",
+                "homepage": null,
                 "id": 1157758884,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-19T02:02:05Z",
+                "open_issues": 0,
                 "owner": "saifyxpro",
                 "repo": "ui-ux-design-pro-skill",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "ai",
+                  "ai-skill",
+                  "claude",
+                  "cli",
+                  "copilot",
+                  "cursor",
+                  "design-intelligence",
+                  "design-system",
+                  "nextjs",
+                  "react",
+                  "tailwindcss",
+                  "ui",
+                  "ui-ux",
+                  "ui-ux-design",
+                  "vibe-coding"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -550,12 +998,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Production-ready .claude/ scaffolding for enforcing professional software engineering standards with Claude Code. Rules, skills, agents, and hooks — ready to use as a GitHub template.",
+                "homepage": null,
                 "id": 1158696742,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-02-15T19:27:26Z",
+                "open_issues": 0,
                 "owner": "smartwhale8",
                 "repo": "claude-playbook",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "ai-coding",
+                  "best-practices",
+                  "claude-code",
+                  "code-quality",
+                  "developer-tools",
+                  "software-engineering",
+                  "template-repository"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             }
@@ -579,12 +1040,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repository for Agent Skills",
+                "homepage": null,
                 "id": 1061953414,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T17:10:55Z",
+                "open_issues": 1186,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 172267
+                "stars": 172317,
+                "topics": [
+                  "agent-skills"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -595,12 +1063,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+                "homepage": null,
                 "id": 678973052,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T20:42:54Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:53:43Z",
+                "open_issues": 318,
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 52239
+                "stars": 52249,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             }
@@ -618,12 +1091,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
+                "homepage": "https://tasteskill.dev",
                 "id": 1162099055,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T15:23:56Z",
+                "open_issues": 58,
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 81867
+                "stars": 81941,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "coding",
+                  "design",
+                  "frontend",
+                  "lowcode",
+                  "nocode",
+                  "skill",
+                  "skills",
+                  "vibecoding"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -634,12 +1126,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+                "homepage": null,
                 "id": 1078079172,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-10T21:45:44Z",
+                "open_issues": 1346,
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73811
+                "stars": 73827,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "antigravity",
+                  "automation",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "composio",
+                  "cursor",
+                  "developer-tools",
+                  "gemini-cli",
+                  "mcp",
+                  "openai-codex",
+                  "rube",
+                  "saas",
+                  "skill",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -650,12 +1165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.",
+                "homepage": "https://interface-design.dev",
                 "id": 1127982345,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-06-20T11:32:45Z",
+                "open_issues": 8,
                 "owner": "Dammyjay93",
                 "repo": "interface-design",
-                "stars": 5621
+                "stars": 5623,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -666,12 +1186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.",
+                "homepage": null,
                 "id": 1169920711,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-01T13:36:16Z",
+                "open_issues": 33,
                 "owner": "coleam00",
                 "repo": "excalidraw-diagram-skill",
-                "stars": 4619
+                "stars": 4621,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -682,12 +1207,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.",
+                "homepage": null,
                 "id": 1036412176,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-09-14T07:33:32Z",
+                "open_issues": 9,
                 "owner": "OneRedOak",
                 "repo": "claude-code-workflows",
-                "stars": 3887
+                "stars": 3888,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -698,12 +1228,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Designer Skills Collection: agentic skills, commands, and plugins for design — from research to systems, UI, interaction, and delivery.",
+                "homepage": null,
                 "id": 1175316550,
                 "language": "Markdown",
+                "license": "MIT",
                 "last_commit": "2026-08-08T16:02:37Z",
+                "open_issues": 2,
                 "owner": "Owl-Listener",
                 "repo": "designer-skills",
-                "stars": 2377
+                "stars": 2383,
+                "topics": [
+                  "agentic",
+                  "agentic-ai",
+                  "ai",
+                  "ai-tools",
+                  "claude-code",
+                  "design-system",
+                  "design-systems",
+                  "prompt-engineering",
+                  "skills",
+                  "ux-design"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             }
@@ -725,12 +1271,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+            "homepage": "https://officialskills.sh/",
             "id": 1084853233,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-26T12:15:01Z",
+            "open_issues": 18,
             "owner": "VoltAgent",
             "repo": "awesome-agent-skills",
-            "stars": 33033
+            "stars": 33091,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "awesome",
+              "awesome-list",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex-skills",
+              "cursor-skills",
+              "gemini-skills",
+              "opencode-skills",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -741,12 +1305,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more",
+            "homepage": "https://skillkit.sh",
             "id": 1138376193,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-02T09:43:09Z",
+            "open_issues": 25,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1474
+            "stars": 1475,
+            "topics": [
+              "agent-skills",
+              "agentskills",
+              "ai",
+              "cli",
+              "codex",
+              "cursor",
+              "gemini",
+              "opencode",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -757,12 +1336,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more",
+            "homepage": "https://skillkit.sh",
             "id": 1138376193,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-02T09:43:09Z",
+            "open_issues": 25,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1474
+            "stars": 1475,
+            "topics": [
+              "agent-skills",
+              "agentskills",
+              "ai",
+              "cli",
+              "codex",
+              "cursor",
+              "gemini",
+              "opencode",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -773,12 +1367,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more",
+            "homepage": "https://skillkit.sh",
             "id": 1138376193,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-02T09:43:09Z",
+            "open_issues": 25,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1474
+            "stars": 1475,
+            "topics": [
+              "agent-skills",
+              "agentskills",
+              "ai",
+              "cli",
+              "codex",
+              "cursor",
+              "gemini",
+              "opencode",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -789,12 +1398,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more",
+            "homepage": "https://skillkit.sh",
             "id": 1138376193,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-02T09:43:09Z",
+            "open_issues": 25,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1474
+            "stars": 1475,
+            "topics": [
+              "agent-skills",
+              "agentskills",
+              "ai",
+              "cli",
+              "codex",
+              "cursor",
+              "gemini",
+              "opencode",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -805,12 +1429,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more",
+            "homepage": "https://skillkit.sh",
             "id": 1138376193,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-02T09:43:09Z",
+            "open_issues": 25,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1474
+            "stars": 1475,
+            "topics": [
+              "agent-skills",
+              "agentskills",
+              "ai",
+              "cli",
+              "codex",
+              "cursor",
+              "gemini",
+              "opencode",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -821,12 +1460,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more",
+            "homepage": "https://skillkit.sh",
             "id": 1138376193,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-02T09:43:09Z",
+            "open_issues": 25,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1474
+            "stars": 1475,
+            "topics": [
+              "agent-skills",
+              "agentskills",
+              "ai",
+              "cli",
+              "codex",
+              "cursor",
+              "gemini",
+              "opencode",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -837,12 +1491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1016034523,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-03-10T20:51:45Z",
+            "open_issues": 2,
             "owner": "jonthebeef",
             "repo": "superdesign-mcp-claude-code",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -855,12 +1514,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
+                "homepage": "https://tasteskill.dev",
                 "id": 1162099055,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T15:23:56Z",
+                "open_issues": 58,
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 81867
+                "stars": 81941,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "coding",
+                  "design",
+                  "frontend",
+                  "lowcode",
+                  "nocode",
+                  "skill",
+                  "skills",
+                  "vibecoding"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -871,12 +1549,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+                "homepage": null,
                 "id": 1078079172,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-10T21:45:44Z",
+                "open_issues": 1346,
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 73811
+                "stars": 73827,
+                "topics": [
+                  "agent-skills",
+                  "ai-agents",
+                  "antigravity",
+                  "automation",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "composio",
+                  "cursor",
+                  "developer-tools",
+                  "gemini-cli",
+                  "mcp",
+                  "openai-codex",
+                  "rube",
+                  "saas",
+                  "skill",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -887,12 +1588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.",
+                "homepage": "https://interface-design.dev",
                 "id": 1127982345,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-06-20T11:32:45Z",
+                "open_issues": 8,
                 "owner": "Dammyjay93",
                 "repo": "interface-design",
-                "stars": 5621
+                "stars": 5623,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -903,12 +1609,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams.",
+                "homepage": null,
                 "id": 1169920711,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-01T13:36:16Z",
+                "open_issues": 33,
                 "owner": "coleam00",
                 "repo": "excalidraw-diagram-skill",
-                "stars": 4619
+                "stars": 4621,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -919,12 +1630,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup.",
+                "homepage": null,
                 "id": 1036412176,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-09-14T07:33:32Z",
+                "open_issues": 9,
                 "owner": "OneRedOak",
                 "repo": "claude-code-workflows",
-                "stars": 3887
+                "stars": 3888,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             },
@@ -935,12 +1651,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Designer Skills Collection: agentic skills, commands, and plugins for design — from research to systems, UI, interaction, and delivery.",
+                "homepage": null,
                 "id": 1175316550,
                 "language": "Markdown",
+                "license": "MIT",
                 "last_commit": "2026-08-08T16:02:37Z",
+                "open_issues": 2,
                 "owner": "Owl-Listener",
                 "repo": "designer-skills",
-                "stars": 2377
+                "stars": 2383,
+                "topics": [
+                  "agentic",
+                  "agentic-ai",
+                  "ai",
+                  "ai-tools",
+                  "claude-code",
+                  "design-system",
+                  "design-systems",
+                  "prompt-engineering",
+                  "skills",
+                  "ux-design"
+                ]
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
             }
@@ -962,12 +1694,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Product Design Agent - Open Source",
+            "homepage": "http://superdesign.dev/ide-extension",
             "id": 1005359642,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-29T04:55:32Z",
+            "open_issues": 75,
             "owner": "superdesigndev",
             "repo": "superdesign",
-            "stars": 6899
+            "stars": 6899,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -978,12 +1715,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1016034523,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-03-10T20:51:45Z",
+            "open_issues": 2,
             "owner": "jonthebeef",
             "repo": "superdesign-mcp-claude-code",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -994,12 +1736,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Designer Skills Collection: agentic skills, commands, and plugins for design — from research to systems, UI, interaction, and delivery.",
+            "homepage": null,
             "id": 1175316550,
             "language": "Markdown",
+            "license": "MIT",
             "last_commit": "2026-08-08T16:02:37Z",
+            "open_issues": 2,
             "owner": "Owl-Listener",
             "repo": "designer-skills",
-            "stars": 2377
+            "stars": 2383,
+            "topics": [
+              "agentic",
+              "agentic-ai",
+              "ai",
+              "ai-tools",
+              "claude-code",
+              "design-system",
+              "design-systems",
+              "prompt-engineering",
+              "skills",
+              "ux-design"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1010,12 +1768,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agent design team you control: 10 agents that run an inclusive design process while you direct.",
+            "homepage": null,
             "id": 1185613751,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-23T12:41:40Z",
+            "open_issues": 3,
             "owner": "Owl-Listener",
             "repo": "designpowers",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "agent-framework",
+              "agent-orchestration",
+              "agentic-ai",
+              "ai",
+              "ai-agents",
+              "design"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1026,12 +1796,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.",
+            "homepage": null,
             "id": 1214125715,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-20T17:54:18Z",
+            "open_issues": 1,
             "owner": "VoltAgent",
             "repo": "awesome-claude-design",
-            "stars": 3570
+            "stars": 3571,
+            "topics": [
+              "claude-code",
+              "claude-design",
+              "design-md",
+              "design-system",
+              "figma"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1042,12 +1823,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+            "homepage": "https://getdesign.md/",
             "id": 1197515131,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-31T12:32:42Z",
+            "open_issues": 320,
             "owner": "VoltAgent",
             "repo": "awesome-design-md",
-            "stars": 111076
+            "stars": 111115,
+            "topics": [
+              "awesome-list",
+              "design-md",
+              "design-system",
+              "design-tokens",
+              "figma",
+              "google-stitch",
+              "landing-page",
+              "vibe-coding",
+              "vibe-design",
+              "vibecoding"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1058,12 +1855,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+            "homepage": "https://officialskills.sh/",
             "id": 1084853233,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-26T12:15:01Z",
+            "open_issues": 18,
             "owner": "VoltAgent",
             "repo": "awesome-agent-skills",
-            "stars": 33033
+            "stars": 33091,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "awesome",
+              "awesome-list",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex-skills",
+              "cursor-skills",
+              "gemini-skills",
+              "opencode-skills",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1074,12 +1889,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI spairings, 150+ reasoning rules, CLI, and 18 platform templates. Works with Claude, Cursor, Windsurf, Copilot, Antigravity, Cline & more.kill for premium UI/UX design — 107 styles, 127 palettes, 107 font ",
+            "homepage": null,
             "id": 1157758884,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-19T02:02:05Z",
+            "open_issues": 0,
             "owner": "saifyxpro",
             "repo": "ui-ux-design-pro-skill",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "ai",
+              "ai-skill",
+              "claude",
+              "cli",
+              "copilot",
+              "cursor",
+              "design-intelligence",
+              "design-system",
+              "nextjs",
+              "react",
+              "tailwindcss",
+              "ui",
+              "ui-ux",
+              "ui-ux-design",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1090,12 +1926,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+            "homepage": "https://www.uupm.cc/",
             "id": 1106996539,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T09:15:37Z",
+            "open_issues": 90,
             "owner": "nextlevelbuilder",
             "repo": "ui-ux-pro-max-skill",
-            "stars": 122543
+            "stars": 122621,
+            "topics": [
+              "ai-skills",
+              "antigravity",
+              "claude",
+              "claude-code",
+              "codex",
+              "command-line",
+              "copilot",
+              "cursor-ai",
+              "html5",
+              "kiro",
+              "landing-page",
+              "mobile-ui",
+              "qoder",
+              "react",
+              "tailwindcss",
+              "trae",
+              "ui-design",
+              "uikit",
+              "windsurf-ai"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1106,12 +1967,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+            "homepage": "https://alirezarezvani.medium.com/",
             "id": 1079084637,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T15:12:59Z",
+            "open_issues": 7,
             "owner": "alirezarezvani",
             "repo": "claude-skills",
-            "stars": 25153
+            "stars": 25170,
+            "topics": [
+              "agent-plugins",
+              "agent-skills",
+              "agentic-ai",
+              "ai-coding-agent",
+              "anthropic-claude",
+              "claude-ai",
+              "claude-code",
+              "claude-code-plugins",
+              "claude-code-skills",
+              "claude-skills",
+              "codex-skills",
+              "coding-agent-plugins",
+              "cursor-skills",
+              "developer-tools",
+              "gemini-cli-skills",
+              "openai-codex",
+              "openclaw",
+              "openclaw-plugins",
+              "openclaw-skills",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1122,12 +2009,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows.",
+            "homepage": null,
             "id": 1081140442,
             "language": "Python",
-            "last_commit": "2026-08-28T13:30:33Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:23:16Z",
+            "open_issues": 11,
             "owner": "daymade",
             "repo": "claude-code-skills",
-            "stars": 1357
+            "stars": 1358,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1138,12 +2030,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLAUDE.md best practices",
+            "homepage": "https://claudecodecamp.com",
             "id": 1149942938,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-18T16:18:25Z",
+            "open_issues": 0,
             "owner": "abhishekray07",
             "repo": "claude-md-templates",
-            "stars": 322
+            "stars": 321,
+            "topics": [
+              "claude-code",
+              "claudemd"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1154,12 +2054,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Production-ready .claude/ scaffolding for enforcing professional software engineering standards with Claude Code. Rules, skills, agents, and hooks — ready to use as a GitHub template.",
+            "homepage": null,
             "id": 1158696742,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-02-15T19:27:26Z",
+            "open_issues": 0,
             "owner": "smartwhale8",
             "repo": "claude-playbook",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "ai-coding",
+              "best-practices",
+              "claude-code",
+              "code-quality",
+              "developer-tools",
+              "software-engineering",
+              "template-repository"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1170,12 +2083,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "homepage": null,
             "id": 678973052,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-19T20:42:54Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:53:43Z",
+            "open_issues": 318,
             "owner": "anthropics",
             "repo": "claude-cookbooks",
-            "stars": 52239
+            "stars": 52249,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1186,12 +2104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.",
+            "homepage": null,
             "id": 1197081492,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-31T10:13:08Z",
+            "open_issues": 0,
             "owner": "rohitg00",
             "repo": "awesome-claude-plugins",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1202,12 +2125,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more.",
+            "homepage": null,
             "id": 1150071903,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-12T07:18:34Z",
+            "open_issues": 294,
             "owner": "rohitg00",
             "repo": "awesome-claude-code-toolkit",
-            "stars": 2562
+            "stars": 2567,
+            "topics": [
+              "claude",
+              "claude-code",
+              "claudecode",
+              "claudecode-hooks",
+              "plugins",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1218,12 +2153,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supercharge AI coding agents with portable skills. Install, translate & share skills across Claude Code, Cursor, Codex, Copilot & 40 more",
+            "homepage": "https://skillkit.sh",
             "id": 1138376193,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-02T09:43:09Z",
+            "open_issues": 25,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1474
+            "stars": 1475,
+            "topics": [
+              "agent-skills",
+              "agentskills",
+              "ai",
+              "cli",
+              "codex",
+              "cursor",
+              "gemini",
+              "opencode",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         },
@@ -1234,12 +2184,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+            "homepage": null,
             "id": 969302809,
             "language": "Python",
-            "last_commit": "2026-08-28T16:08:58Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:10:54Z",
+            "open_issues": 945,
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 53134
+            "stars": 53148,
+            "topics": [
+              "agent-skills",
+              "agentic-code",
+              "agentic-coding",
+              "ai-workflow-optimization",
+              "ai-workflows",
+              "anthropic",
+              "anthropic-claude",
+              "awesome",
+              "awesome-claude-code",
+              "awesome-list",
+              "awesome-lists",
+              "awesome-resources",
+              "claude",
+              "claude-code",
+              "coding-agent",
+              "coding-agents",
+              "coding-assistant",
+              "coding-assistants",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
         }
@@ -1248,15 +2223,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:20:22.742Z",
+    "last_updated": "2026-08-29T04:36:57.131Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.",
+      "homepage": null,
       "id": 1214951658,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-04-23T13:37:55Z",
+      "open_issues": 4,
       "owner": "rohitg00",
       "repo": "awesome-claude-design",
-      "stars": 1030
+      "stars": 1030,
+      "topics": [
+        "ai-design",
+        "anthropic",
+        "awesome",
+        "awesome-list",
+        "claude-code",
+        "claude-design",
+        "claude-skills",
+        "design-md",
+        "design-system"
+      ]
     },
     "original_repository_sha": "7f60ee56b9340f8c2671a08c2d8aab4037546a64",
     "enhanced_repository": "enhansome/enhansome-claude-design",

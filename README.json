@@ -16,10 +16,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-11-06T22:32:32Z",
-            "open_issues": 1490,
+            "open_issues": 1495,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 188443,
+            "stars": 189271,
             "topics": [
               "agent-skills"
             ]
@@ -39,10 +39,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-11-06T22:32:32Z",
-            "open_issues": 1490,
+            "open_issues": 1495,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 188443,
+            "stars": 189271,
             "topics": [
               "agent-skills"
             ]
@@ -62,10 +62,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-11-04T19:23:29Z",
-            "open_issues": 378,
+            "open_issues": 380,
             "owner": "anthropics",
             "repo": "claude-cookbooks",
-            "stars": 54367,
+            "stars": 54426,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
@@ -83,10 +83,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-11-04T19:23:29Z",
-            "open_issues": 378,
+            "open_issues": 380,
             "owner": "anthropics",
             "repo": "claude-cookbooks",
-            "stars": 54367,
+            "stars": 54426,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
@@ -115,7 +115,7 @@
                 "open_issues": 311,
                 "owner": "VoltAgent",
                 "repo": "awesome-design-md",
-                "stars": 125988,
+                "stars": 126114,
                 "topics": [
                   "awesome-list",
                   "design-md",
@@ -146,7 +146,7 @@
                 "open_issues": 40,
                 "owner": "google-labs-code",
                 "repo": "design.md",
-                "stars": 28770,
+                "stars": 28777,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
@@ -167,7 +167,7 @@
                 "open_issues": 1,
                 "owner": "VoltAgent",
                 "repo": "awesome-claude-design",
-                "stars": 4361,
+                "stars": 4395,
                 "topics": [
                   "claude-code",
                   "claude-design",
@@ -212,10 +212,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-18T07:16:11Z",
-                "open_issues": 1886,
+                "open_issues": 1889,
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 78975,
+                "stars": 79039,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -250,11 +250,11 @@
                 "id": 969302809,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T12:08:25Z",
-                "open_issues": 1177,
+                "last_commit": "2026-11-08T15:05:04Z",
+                "open_issues": 1188,
                 "owner": "hesreallyhim",
                 "repo": "awesome-claude-code",
-                "stars": 57444,
+                "stars": 57524,
                 "topics": [
                   "agent-skills",
                   "agentic-code",
@@ -291,11 +291,11 @@
                 "id": 1134426800,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-06T17:55:43Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-08T14:10:48Z",
+                "open_issues": 9,
                 "owner": "sickn33",
                 "repo": "agentic-awesome-skills",
-                "stars": 49309,
+                "stars": 49359,
                 "topics": [
                   "agent-skills",
                   "agentic-skills",
@@ -334,10 +334,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-04-28T19:30:24Z",
-                "open_issues": 930,
+                "open_issues": 929,
                 "owner": "travisvn",
                 "repo": "awesome-claude-skills",
-                "stars": 15733,
+                "stars": 15742,
                 "topics": [
                   "agentic-coding",
                   "anthropic",
@@ -367,10 +367,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-02T12:16:33Z",
-                "open_issues": 82,
+                "open_issues": 92,
                 "owner": "BehiSecc",
                 "repo": "awesome-claude-skills",
-                "stars": 10364,
+                "stars": 10373,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
@@ -388,10 +388,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-02T04:02:45Z",
-                "open_issues": 351,
+                "open_issues": 355,
                 "owner": "heilcheng",
                 "repo": "awesome-agent-skills",
-                "stars": 6350,
+                "stars": 6354,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -426,10 +426,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-12T07:18:34Z",
-                "open_issues": 420,
+                "open_issues": 422,
                 "owner": "rohitg00",
                 "repo": "awesome-claude-code-toolkit",
-                "stars": 2817,
+                "stars": 2820,
                 "topics": [
                   "claude",
                   "claude-code",
@@ -453,11 +453,11 @@
                 "id": 1086692156,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-07T10:56:13Z",
+                "last_commit": "2026-11-08T04:20:22Z",
                 "open_issues": 6,
                 "owner": "quemsah",
                 "repo": "awesome-claude-plugins",
-                "stars": 1556,
+                "stars": 1560,
                 "topics": [
                   "awesome-list",
                   "claude-code",
@@ -481,7 +481,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-04T13:42:36Z",
-                "open_issues": 756,
+                "open_issues": 759,
                 "owner": "jqueryscript",
                 "repo": "awesome-claude-code",
                 "stars": 544,
@@ -516,7 +516,7 @@
                 "open_issues": 5,
                 "owner": "bergside",
                 "repo": "design-md-chrome",
-                "stars": 3149,
+                "stars": 3154,
                 "topics": [
                   "ai",
                   "chrome",
@@ -675,10 +675,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-04T19:23:29Z",
-                "open_issues": 378,
+                "open_issues": 380,
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 54367,
+                "stars": 54426,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
@@ -702,11 +702,11 @@
                 "id": 1106996539,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T07:07:39Z",
-                "open_issues": 87,
+                "last_commit": "2026-11-07T19:05:11Z",
+                "open_issues": 86,
                 "owner": "nextlevelbuilder",
                 "repo": "ui-ux-pro-max-skill",
-                "stars": 146415,
+                "stars": 146792,
                 "topics": [
                   "ai-skills",
                   "antigravity",
@@ -744,10 +744,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-11-05T10:43:36Z",
-                "open_issues": 17,
+                "open_issues": 22,
                 "owner": "VoltAgent",
                 "repo": "awesome-agent-skills",
-                "stars": 36951,
+                "stars": 36973,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -781,7 +781,7 @@
                 "open_issues": 1,
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 29444,
+                "stars": 29473,
                 "topics": [
                   "agent-plugins",
                   "agent-skills",
@@ -823,7 +823,7 @@
                 "open_issues": 75,
                 "owner": "superdesigndev",
                 "repo": "superdesign",
-                "stars": 7593,
+                "stars": 7597,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
@@ -844,7 +844,7 @@
                 "open_issues": 2,
                 "owner": "Owl-Listener",
                 "repo": "designer-skills",
-                "stars": 3278,
+                "stars": 3287,
                 "topics": [
                   "agentic",
                   "agentic-ai",
@@ -872,7 +872,7 @@
                 "id": 1081140442,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T14:59:37Z",
+                "last_commit": "2026-11-08T14:05:01Z",
                 "open_issues": 2,
                 "owner": "daymade",
                 "repo": "claude-code-skills",
@@ -949,7 +949,7 @@
                 "open_issues": 0,
                 "owner": "saifyxpro",
                 "repo": "ui-ux-design-pro-skill",
-                "stars": 97,
+                "stars": 98,
                 "topics": [
                   "ai",
                   "ai-skill",
@@ -1046,10 +1046,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-11-06T22:32:32Z",
-                "open_issues": 1490,
+                "open_issues": 1495,
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 188443,
+                "stars": 189271,
                 "topics": [
                   "agent-skills"
                 ]
@@ -1069,10 +1069,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-04T19:23:29Z",
-                "open_issues": 378,
+                "open_issues": 380,
                 "owner": "anthropics",
                 "repo": "claude-cookbooks",
-                "stars": 54367,
+                "stars": 54426,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
@@ -1096,11 +1096,11 @@
                 "id": 1162099055,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T12:34:18Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-07T23:45:10Z",
+                "open_issues": 2,
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 111472,
+                "stars": 111905,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1130,10 +1130,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-18T07:16:11Z",
-                "open_issues": 1886,
+                "open_issues": 1889,
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 78975,
+                "stars": 79039,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1172,7 +1172,7 @@
                 "open_issues": 8,
                 "owner": "Dammyjay93",
                 "repo": "interface-design",
-                "stars": 5935,
+                "stars": 5940,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
@@ -1193,7 +1193,7 @@
                 "open_issues": 30,
                 "owner": "coleam00",
                 "repo": "excalidraw-diagram-skill",
-                "stars": 5210,
+                "stars": 5215,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
@@ -1214,7 +1214,7 @@
                 "open_issues": 9,
                 "owner": "OneRedOak",
                 "repo": "claude-code-workflows",
-                "stars": 3915,
+                "stars": 3918,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
@@ -1235,7 +1235,7 @@
                 "open_issues": 2,
                 "owner": "Owl-Listener",
                 "repo": "designer-skills",
-                "stars": 3278,
+                "stars": 3287,
                 "topics": [
                   "agentic",
                   "agentic-ai",
@@ -1275,10 +1275,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-05T10:43:36Z",
-            "open_issues": 17,
+            "open_issues": 22,
             "owner": "VoltAgent",
             "repo": "awesome-agent-skills",
-            "stars": 36951,
+            "stars": 36973,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -1312,7 +1312,7 @@
             "open_issues": 38,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "agent-skills",
               "agentskills",
@@ -1343,7 +1343,7 @@
             "open_issues": 38,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "agent-skills",
               "agentskills",
@@ -1374,7 +1374,7 @@
             "open_issues": 38,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "agent-skills",
               "agentskills",
@@ -1405,7 +1405,7 @@
             "open_issues": 38,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "agent-skills",
               "agentskills",
@@ -1436,7 +1436,7 @@
             "open_issues": 38,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "agent-skills",
               "agentskills",
@@ -1467,7 +1467,7 @@
             "open_issues": 38,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "agent-skills",
               "agentskills",
@@ -1517,11 +1517,11 @@
                 "id": 1162099055,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-07T12:34:18Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-07T23:45:10Z",
+                "open_issues": 2,
                 "owner": "Leonxlnx",
                 "repo": "taste-skill",
-                "stars": 111472,
+                "stars": 111905,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1551,10 +1551,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-18T07:16:11Z",
-                "open_issues": 1886,
+                "open_issues": 1889,
                 "owner": "ComposioHQ",
                 "repo": "awesome-claude-skills",
-                "stars": 78975,
+                "stars": 79039,
                 "topics": [
                   "agent-skills",
                   "ai-agents",
@@ -1593,7 +1593,7 @@
                 "open_issues": 8,
                 "owner": "Dammyjay93",
                 "repo": "interface-design",
-                "stars": 5935,
+                "stars": 5940,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
@@ -1614,7 +1614,7 @@
                 "open_issues": 30,
                 "owner": "coleam00",
                 "repo": "excalidraw-diagram-skill",
-                "stars": 5210,
+                "stars": 5215,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
@@ -1635,7 +1635,7 @@
                 "open_issues": 9,
                 "owner": "OneRedOak",
                 "repo": "claude-code-workflows",
-                "stars": 3915,
+                "stars": 3918,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:20:22.742Z"
@@ -1656,7 +1656,7 @@
                 "open_issues": 2,
                 "owner": "Owl-Listener",
                 "repo": "designer-skills",
-                "stars": 3278,
+                "stars": 3287,
                 "topics": [
                   "agentic",
                   "agentic-ai",
@@ -1699,7 +1699,7 @@
             "open_issues": 75,
             "owner": "superdesigndev",
             "repo": "superdesign",
-            "stars": 7593,
+            "stars": 7597,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
@@ -1741,7 +1741,7 @@
             "open_issues": 2,
             "owner": "Owl-Listener",
             "repo": "designer-skills",
-            "stars": 3278,
+            "stars": 3287,
             "topics": [
               "agentic",
               "agentic-ai",
@@ -1801,7 +1801,7 @@
             "open_issues": 1,
             "owner": "VoltAgent",
             "repo": "awesome-claude-design",
-            "stars": 4361,
+            "stars": 4395,
             "topics": [
               "claude-code",
               "claude-design",
@@ -1828,7 +1828,7 @@
             "open_issues": 311,
             "owner": "VoltAgent",
             "repo": "awesome-design-md",
-            "stars": 125988,
+            "stars": 126114,
             "topics": [
               "awesome-list",
               "design-md",
@@ -1856,10 +1856,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-11-05T10:43:36Z",
-            "open_issues": 17,
+            "open_issues": 22,
             "owner": "VoltAgent",
             "repo": "awesome-agent-skills",
-            "stars": 36951,
+            "stars": 36973,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -1893,7 +1893,7 @@
             "open_issues": 0,
             "owner": "saifyxpro",
             "repo": "ui-ux-design-pro-skill",
-            "stars": 97,
+            "stars": 98,
             "topics": [
               "ai",
               "ai-skill",
@@ -1926,11 +1926,11 @@
             "id": 1106996539,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-05T07:07:39Z",
-            "open_issues": 87,
+            "last_commit": "2026-11-07T19:05:11Z",
+            "open_issues": 86,
             "owner": "nextlevelbuilder",
             "repo": "ui-ux-pro-max-skill",
-            "stars": 146415,
+            "stars": 146792,
             "topics": [
               "ai-skills",
               "antigravity",
@@ -1971,7 +1971,7 @@
             "open_issues": 1,
             "owner": "alirezarezvani",
             "repo": "claude-skills",
-            "stars": 29444,
+            "stars": 29473,
             "topics": [
               "agent-plugins",
               "agent-skills",
@@ -2009,7 +2009,7 @@
             "id": 1081140442,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T14:59:37Z",
+            "last_commit": "2026-11-08T14:05:01Z",
             "open_issues": 2,
             "owner": "daymade",
             "repo": "claude-code-skills",
@@ -2084,10 +2084,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-11-04T19:23:29Z",
-            "open_issues": 378,
+            "open_issues": 380,
             "owner": "anthropics",
             "repo": "claude-cookbooks",
-            "stars": 54367,
+            "stars": 54426,
             "topics": []
           },
           "first_seen": "2026-08-28T20:20:22.742Z"
@@ -2126,10 +2126,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-05-12T07:18:34Z",
-            "open_issues": 420,
+            "open_issues": 422,
             "owner": "rohitg00",
             "repo": "awesome-claude-code-toolkit",
-            "stars": 2817,
+            "stars": 2820,
             "topics": [
               "claude",
               "claude-code",
@@ -2157,7 +2157,7 @@
             "open_issues": 38,
             "owner": "rohitg00",
             "repo": "skillkit",
-            "stars": 1574,
+            "stars": 1575,
             "topics": [
               "agent-skills",
               "agentskills",
@@ -2184,11 +2184,11 @@
             "id": 969302809,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T12:08:25Z",
-            "open_issues": 1177,
+            "last_commit": "2026-11-08T15:05:04Z",
+            "open_issues": 1188,
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 57444,
+            "stars": 57524,
             "topics": [
               "agent-skills",
               "agentic-code",
@@ -2218,7 +2218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:03:28.124Z",
+    "last_updated": "2026-11-08T15:31:37.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.",
@@ -2230,7 +2230,7 @@
       "open_issues": 5,
       "owner": "rohitg00",
       "repo": "awesome-claude-design",
-      "stars": 1199,
+      "stars": 1203,
       "topics": [
         "ai-design",
         "anthropic",
